@@ -1,0 +1,1000 @@
+
+DATA_HANDLING:
+- > you need to act a bit promptly. we are waiting for the files.
+- > initial access to your network was purchased on the dark web. then kerberoasting was carried out and we got passwords hashes. then we just bruted these and got domain admin password. spending weeks inside of your network we've managed to detect some fails we highly recommend to eliminate: 1. none of your employees should open suspicious emails, suspicious links or download any files, much less run them on their computer.
+2. use strong passwords, change them as often as possible (1-2 times per month at least). passwords should not match or be repeated on different resources.
+3. install 2fa wherever possible.
+4. use the latest versions of operating systems, as they are less vulnerable to attacks.
+5. update all software versions.
+6. use antivirus solutions and traffic monitoring tools.
+7. create a jump host for your vpn. use unique credentials on it that differ from domain one.
+8. use backup software with cloud storage which supports a token key.
+9. instruct your employees as often as possible about online safety precautions. the most vulnerable point is the human factor and the irresponsibility of your employees, system administrators, etc.
+- > you've reached akira support chat. currently, we are preparing the list of data we took from your network. for now you have to know that dealing with us is the best possible way to settle this quick and cheap. keep in touch and be patient with us. we will reach out to you soon. do you have a permission to conduct a negotiation on behalf of your organization? once we get a response you will be provided with all the details.
+- > we are standing by to the files.
+- > let me know if you need the whole deal or in parts please. we are standing by to the files.
+- > some files less than 2 mb might be damaged.
+- > great. please wait for the list of data we took. we need a bit time to sort this out.
+- > please review the files. do you want to test our tool?
+- > here us the files. let us know your progress with encrypted ones.
+- > files.rar // 19.6 kb
+- > too many files but ok. we will provide shortly. meanwhile, how's it going with fund gathering?
+- > we've encrypted your some of your servers and took the data you see in the list.
+- > ok. we are waiting for the files request tomorrow.
+- > we took everything you see in the list. 560gb in total. we are waiting for the files on monday.
+- > [redacted]files.rar // 1.28 mb
+- > the price for the whole deal is $690,000. you can send us encrypted files for test.
+- > your data will be available for downloading soon.
+- > so, we've gone through your files to define your financial abilities. we've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us calculate our demand to you. we're willing to set a $400,000 price for all the services we offer.
+- > you can upload any encrypted files you can find like log or configs. please wait for files.
+- > here are the proof files.
+- > i see. we can delete your data for $80,000. not less. after we are paid, we will provide you with the deletion log file.
+- >
+hello. you've reached an akira support chat. currently, we are preparing the list of data we took from your network. for now you have to know that dealing with us is the best possible way to settle this quick and cheap. keep in touch and be patient with us. we will reach out to you soon. do you have a permission to conduct a negotiation on behalf of your organization?
+- > initial access to your network was purchased on the dark web. spending weeks inside of your network we've managed to detect some fails we highly recommend to eliminate: 1. none of your employees should open suspicious emails, suspicious links or download any files, much less run them on their computer.
+2. use strong passwords, change them as often as possible (1-2 times per month at least). passwords should not match or be repeated on different resources.
+3. install 2fa wherever possible.
+4. use the latest versions of operating systems, as they are less vulnerable to attacks.
+5. update all software versions.
+6. use antivirus solutions and traffic monitoring tools.
+7. create a jump host for your vpn. use unique credentials on it that differ from domain one.
+8. use backup software with cloud storage which supports a token key.
+9. instruct your employees as often as possible about online safety precautions. the most vulnerable point is the human factor and the irresponsibility of your employees, system administrators, etc. we wish you safety, calmness and lots of benefits in the future. thank you for working with us and your careful attitude to your security. the deletion log is coming later.
+- > the bosses told you the amount we will accept. don't test our patience if you don't want a demand increase. we are willing give you more time but no further discount. we know your value. pay on monday or we publish your data on our blog. no more stalling.
+- > the fourth option means we would have to delete your data, so this is just a basic guarantee of the second option. the price for the mentioned services is $225,000.
+- > files.7z // 538 kb
+- > 10% of our demand? are you sure? we will post your data and delete this chat later if you don't reconsider this modest offer within 24 hours.
+- > well, the leadership is extremely upset by the progress of this negotiations. i'm authorized to negotiate until friday. so we agree to accept $500,000 if paid by friday. any other amounts will be rejected and your data will be published early next week. you have a little time to come up with a decision, because from our side it has already been made and is not subject to revision. waiting for your reply.
+- > you can review the files.
+- > hello. we will upload your data to our blog if we don't hear back from you by monday.
+- > congratulations, you have passed a surprise information security audit and become a victim of ransomware. currently, we are preparing the list of data we took from your network. for now you have to know that dealing with us is the best possible way to settle this quick and cheap. keep in touch and be patient with us. we will reach out to you soon.
+- > hello. you've reached akira support chat. currently, we are preparing the list of data we took from your network. for now you have to know that dealing with us is the best possible way to settle this quick and cheap. keep in touch and be patient with us. we will reach out to you soon. do you have a permission to conduct a negotiation on behalf of your organization?
+- > c'mon guys. if you really wanted to pay, you would have done so a couple of weeks ago. don't waste our time, please leave this chat. we absolutely do not care about this modest amount, so your data will be published soon.
+- > your data will be posted soon.
+- > just ridiculous! you can keep your 10%. your data will be posted this week.
+- > you've reached akira support chat. currently, we are preparing the list of data we took from your network. for now you have to know that dealing with us is the best possible way to settle this quick and cheap. keep in touch and be patient with us. do you have a permission to conduct a negotiation on behalf of your organization? once we get your reply you will be provided with all the details.
+- > guys, your 600gb of data will be published soon, in case we don't have a reply from you within 12 hours.
+- > yes, i've passed the files to my tech dept. please wait.
+- > for $250,000 we will also delete your data.
+- > so, we've gone through your files to define your financial abilities. we've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us to calculate our demand to you. we're willing to set a $190,000 price for all the services we offer.
+- > we've started uploading your data to mega storage. this process will take us 2-3 days approximately.
+- > ok, we will send few random files.
+- > ok, it seems we will have to post your data.
+- > hello. you've reached an akira support chat. currently, we are preparing the list of data we took from your network. for now you have to know that dealing with us is the best possible way to settle this quick and cheap. keep in touch and be patient with us. we will reach out to you soon.
+- > the files will be uploaded shortly.
+- > files.rar // 4.29 mb
+- > here is additional data we took from some of your trusts.
+- > please wait for the files.
+- > hello. we will provide the files shortly.
+- > files.7z // 939 kb
+- > hello. you've reached an akira support chat. currently, we are preparing the list of data we took from your network. for now you have to know that dealing with us is the best possible way to settle this quick and cheap. keep in touch and be patient with us. we will reach out to you soon.
+
+do you have a permission to conduct a negotiation on behalf of your organization?
+- > hello. you've reached akira support chat. currently, we are preparing the list of data we took from your network. for now you have to know that dealing with us is the best possible way to settle this quick and cheap. keep in touch and be patient with us. do you have a permission to conduct a negotiation on behalf of your organization? once we get your reply you will be provided with all the details.
+- > we are waiting for the files today.
+- > your attempts to waste our time could force our exit from negotiations and cause data publication.
+- > you've reached akira support chat. currently, we are preparing the list of data we took from your network. for now you have to know that dealing with us is the best possible way to settle this quick and cheap. keep in touch and be patient with us. do you have a permission to conduct a negotiation on behalf of your organization? once we get a response you will be provided with all the details.
+- > files.rar // 145 kb
+- > files (7).rar // 1.5 mb
+- > when can we expect the files approximately?
+- > please review the files.
+- > in case we don't have a response form you, we will have to post your data in our blog.
+- > please send us the correct files. we do not see any signs of our tool.
+- > this is the list of files of [redacted] company. we are working on transporting files of the rest companies and will provide you with the lists for them soon. we're willing to set a $2,000,000 price for all the services we offer.
+- > have you reviewed the files?
+- > if we don't get a respond within next 24 hours, we will be forced to announce your corporate data leak on our blog.
+- > files.rar // 647 kb
+- > let us know when you have reviewed the files and are ready to proceed.
+- > we need 6 figure proposal from you to finalize the deal. we're willing to accept 170,000 for the data we hold.
+- > my tech dept has checked those files and they're not encrypted, so please send us correct files asap.
+- > initial access to your network was purchased on the dark web. then kerberoasting was carried out and we got passwords hashes. then we just brooted these and got domain admin password. spending weeks inside of your network we've managed to detect some fails we highly recommend to eliminate: 1. none of your employees should open suspicious emails, suspicious links or download any files, much less run them on their computer.
+2. use strong passwords, change them as often as possible (1-2 times per month at least). passwords should not match or be repeated on different resources.
+3. install 2fa wherever possible.
+4. use the latest versions of operating systems, as they are less vulnerable to attacks.
+5. update all software versions.
+6. use antivirus solutions and traffic monitoring tools.
+7. create a jump host for your vpn. use unique credentials on it that differ from domain one.
+8. use backup software with cloud storage which supports a token key.
+9. instruct your employees as often as possible about online safety precautions. the most vulnerable point is the human factor and the irresponsibility of your employees, system administrators, etc. we wish you safety, calmness and lots of benefits in the future. thank you for working with us and your careful attitude to your security.
+- > so, we've gone through your files to define your financial abilities. we've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us calculate our demand to you. we're willing to set a $250,000 price for all the services we offer.
+- > what do you mean? will you send encrypted files?
+- > we will upload the files shortly.
+- > if we don't get your decision within next 24 hours, we will be forced to announce your corporate data leak on our blog.
+- > files.rar // 207 kb
+- > files.zip // 14.8 kb
+- > files.rar // 711 kb
+- > this is the complete list. we have about 2gb of data. the files will be provided shortly.
+- > the files are ok. in 24 hours we will announce your corporate data leak on your blog. early next week your data will be published. thank you.
+- > hello. we're going to publish your data this week. thank you.
+- > well, we had an internal discussion as a result of which the senior leaders have agreed to come down to $1,400,000 to get this over with finally. we have provided you with $600,000 discount as a total which seems to be fair. we can't go any lower from this point. we haven't put any pressure on you during negotiations, we haven't leaked your data or disclosed the details of this incident. let's finish this today. the wallet is still the same: [redacted]
+- > so, we've gone through your files to define your financial abilities. we're willing to set a $275,000 price for all the services we offer.
+- > same thing. could you please upload the files one at a time?
+- > hello. you've reached akira support chat. currently, we are preparing the list of data we took from your network. for now you have to know that dealing with us is the best possible way to settle this quick and cheap. keep in touch and be patient with us. we will reach out to you soon.
+- > so, where the files?
+- > hello. you've reached akira support chat. currently, we are preparing the list of data we took from your network. for now you have to know that dealing with us is the best possible way to settle this quick and cheap. keep in touch and be patient with us. we will reach out to you soon. do you have a permission to conduct a negotiation on behalf of your organization? once we get a response you will be provided with all the details.
+- > initial access to your network was purchased on the dark web. then kerberoasting was carried out and we got passwords hashes. then we just bruted these and got domain admin password. spending weeks inside of your network we've managed to detect some fails we highly recommend to eliminate:
+
+1. none of your employees should open suspicious emails, suspicious links or download any files, much less run them on their computer.
+2. use strong passwords, change them as often as possible (1-2 times per month at least). passwords should not match or be repeated on different resources.
+3. install 2fa wherever possible.
+4. use the latest versions of operating systems, as they are less vulnerable to attacks.
+5. update all software versions.
+6. use antivirus solutions and traffic monitoring tools.
+7. create a jump host for your vpn. use unique credentials on it that differ from domain one.
+8. use backup software with cloud storage which supports a token key.
+9. instruct your employees as often as possible about online safety precautions. the most vulnerable point is the human factor and the irresponsibility of your employees, system administrators, etc.
+
+we wish you safety, calmness and lots of benefits in the future. thank you for working with us and your careful attitude to your security. the evidence of data removal will be provided soon.
+- > so, you've reached an akira support chat. currently, we are preparing the list of data we took from your network. for now you have to know that dealing with us is the best possible way to settle this quick and cheap. keep in touch and be patient with us. we will reach out to you soon. do you have a permission to conduct a negotiation on behalf of your organization?
+- > ok thanks for the information. we will announce this incident on our blog and your data will be uploaded there as well.
+- > well, your discussions take so much time. i am preparing your files for uploading to our blog. tomorrow your data will be available for downloading.
+- > here are the files you can review. we asked for 2-3 files and are giving you back 4 of 6.
+- > you know our price. what you are offering is unacceptable. if you have no intentions to save your data, we will upload it to our blog.
+- > hello. you've reached akira support chat. currently, we are preparing the list of data we took from your network. for now you have to know that dealing with us is the best possible way to settle this quick and cheap. keep in touch and be patient with us. do you have a permission to conduct a negotiation on behalf of your organization? once we get a response you will be provided with all the details.
+- > files.rar // 38.7 kb
+- > hello. you've reached an akira support chat. currently, we are preparing the list of data we took from your network. for now you have to know that dealing with us is the best possible way to settle this quick and cheap. keep in touch and be patient with us. we will reach out to you soon.
+
+do you have a permission to conduct a negotiation on behalf of your organization? once we get a response you will be provided with all the details.
+- > there are three files in the archive.
+- > initial access to your network was purchased on the dark web. then kerberoasting was carried out and we got passwords hashes. then we just bruted these and got domain admin password. spending weeks inside of your network we've managed to detect some fails we highly recommend to eliminate: 1. none of your employees should open suspicious emails, suspicious links or download any files, much less run them on their computer.
+2. use strong passwords, change them as often as possible (1-2 times per month at least). passwords should not match or be repeated on different resources.
+3. install 2fa wherever possible.
+4. use the latest versions of operating systems, as they are less vulnerable to attacks.
+5. update all software versions.
+6. use antivirus solutions and traffic monitoring tools.
+7. create a jump host for your vpn. use unique credentials on it that differ from domain one.
+8. use backup software with cloud storage which supports a token key.
+9. instruct your employees as often as possible about online safety precautions. the most vulnerable point is the human factor and the irresponsibility of your employees, system administrators, etc. we wish you safety, calmness and lots of benefits in the future. thank you for working with us and your careful attitude to your security.
+- > you can check the files.
+- > you can give us log or config files for test.
+- > hello. i am waiting for the files.
+- > hello. let us know if you are interested in this deal. if you don't answer us today, we will have to move to your data uploading to our blog.
+- > do you need files for proof?
+
+OTHER:
+- > we need your decision.
+- > let me know when you are ready and i'll provide our wallet id.
+- > i've passed it to my team. please wait.
+- > standing by, thank you.
+- > the publishing will take 1-2 days. have you managed to gather something to offer us?
+- > list.7z // 554 kb
+- > we are going to close the deal this week in any case.
+- > thank you for the update. we hope you will come to an agreement soon because we will not wait long. anyway restructuring you mentioned will be more expensive that a deal with us. we can help with the price and we can accept $200,000 this week. it is up to you to decide what way to choose. let us know your decision asap please. we need to move on.
+- > sure. we will upload it soon.
+- > well, we've discussed the case internally. taking into account your financial situation my leadership decided to move towards you and receive $135,000 for closing the case.
+- > update us on monday.
+- > yes, i will send a new chat id shortly.
+- > you have 24 hours to give us your decision regarding this deal. if you stay silent, we will announce the breach on our blog.
+- > my team says we have no longer that information. you just need to follow our instructions and change all the credentials. renew it from time to time.
+- > we confirm the receipt. please wait.
+- > i'll try to find out that from my tech team.
+- > we have to close the deal this week. are you in time?
+- > list.7z // 493 kb
+- > we are waiting.
+- > we highly appreciate your willingness to work with us and see how you value your business but we cannot accept this amount. we've had a meeting as result of which the upper management has decided to take another step towards you and come down to $105,000. let's just split that difference between you and us and get this over. once you confirm the sum i will drop off our wallet and we will start preparing all the deliverables.
+- > you need to assure them that you use your funds in investment purposes.
+- > yes, this is everything.
+- > list.txt.7z // 3.97 mb
+- > you will know.
+- > the terms we agreed on are valid before the weekend.
+- > you will surely receive everything you stated above. when can we expect the transfer?
+- > we  will upload them later.
+- > ok, thank you. i will get back shortly with more information.
+- > esxi5.5.zip // 1.94 mb
+- > hello. i think we can. i'll try to provide you with the log within a few hours.
+- > are you going to work with us?
+- > show me what do you have now and i'll talk to my team.
+- > i simply do not know how to help you. you can sell some of your assets or something but my bosses can't go lower than $350,000.
+- > we see no decisions from you. are you going to work with us?
+- > waiting for your reply guys.
+- > list.7z // 47 kb
+- > i will let you know shortly.
+- > we will wait to hear about alternative you will find asap.
+- > we accept bitcoins. to gain bitcoins you have to go to any exchange platform as binance or coinbase. here are the guides: https://www.coinbase.com/how-to-buy/bitcoin
+https://www.binance.com/en/how-to-buy/bitcoin you also can buy bitcoin from any local brokers. if you withdraw funds from your bank account, then you have to inform the bank that you need this money for investment purposes only.
+- > here is the file. please review.
+- > how long should we wait?
+- > list.rar // 375 kb
+- > $140,000 and you will receive all of our services.
+- > we will provide you with the report and the deletion log within 24 hours.
+- > we won't ask much money. we will ask what you can afford.
+- > will we see a counter offer from you today?
+- > list.zip // 2.84 mb
+- > win_unlocker_[redacted].ex_ // 478 kb
+- > received. please wait.
+- > you have instructions. tell me at what stage you are having troubles.
+- > try uploading them through any file sharing service. you can share the link.
+- > [redacted].rar // 371 kb
+- > [redacted].vmx // 4.09 kb
+- > hurry up on your part please.
+- > make everything ready by tuesday. we'll close the deal.
+- > what do you have to offer?
+- > [redacted].pdf // 190 kb
+- > my team is pretty aware of the situation. it was confirmed to me that we cannot accept any sum less that 6 numbers from you. we'd like to finish this quick but there are rules.
+- > haven't received anything yet.
+- > we are. wait for the details.
+- > hello. have you managed to raise a decent amount?
+- > we hope to get this over with before the weekend. standing by.
+- > we will review and get back to you.
+- > https://privnote.com/[redacted]
+- > you can find your company name in our news column: https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion if you want this post to be removed, we have to agree on something.
+- > checking. please wait.
+- > yes. please wait.
+- > any updates?
+- > we will let you know soon.
+- > are we going to have a deal here?
+- > we will wait for your decision regarding our deal on monday. if we see no interest from you, we will publish everything the list contains.
+- > we are waiting for your reply today.
+- > this is everything we hold.
+- > again, 5 numbers won't be considered. we will see what you are going to bring us with the next update and decide how to proceed with the case.
+- > [redacted].7z // 5.03 mb
+- > deletion [redacted].txt // 2.05 mb
+- > please stop trying to fool us. your business able to pays the sum we ask. show us an offer more than 5 digits and we will be able to settle this. we can move towards you and come down to $200,000.
+- > [redacted].pdf // 107 kb
+- > secret id  is [redacted]
+- > we look forward to your message in the new chat room.
+- > we appreciate your willingness to cooperate and you efforts of course but we are still far apart from each other. we will wait for better number on monday and we hope to finish the deal after we receive your renewed offer.
+- > we're not interested in deceiving you since it will impact our reputation we honor.
+- > waiting.
+- > we are waiting for your offer asap.
+- > [redacted].xml // 517 kb
+- > i still do not see any decent offer from your side. we will take the post down later.
+- > hello. this archive cannot be re-uploaded because it was corrupted while we downloading this from your network. we got this archive like this. sorry for misunderstanding.
+- > [redacted].pdf // 235 kb
+- > we hope too. thank you.
+- > dellog_[redacted].zip // 382 kb
+- > $120,000 and we will shake hands.
+- > thank you. keep us updated please.
+- > try this one [redacted]
+- > ok. we can wait until monday. update me on your steps.
+- > so, are you going to have a deal here?
+- > here is is please: [redacted]
+
+
+please keep in mind that friday is your deadline. speed things up on your part and we will get this over.
+- > [redacted]23.docx // 1.84 mb
+- > you can provide us with one of larger than 10mb. no one is going to deceive you.
+- > hello. are you going to finish the deal with us?
+- > this one [redacted].
+- > thank you. we're ready.
+- > list.rar // 4.76 mb
+- > i have very good news. i was talking to the upper management and they are willing to accept $1,4m today for all the outlined options. on monday we will have to return to our previous demand. do we have a deal now?
+- > [redacted].rar // 541 kb
+- > yes, the address [redacted]
+- > please wait for details.
+- > log_erase [redacted].txt // 2.06 kb
+- > [redacted].vbm // 514 kb
+- > do you need a new chat id?
+- > [redacted] corporation.pdf // 389 kb
+- > we do confirm that the list indicates everything we've obtained.
+- > we will try.
+- > hello
+- > we have received the funds, thank you. please wait for all the promised materials.
+- > we will provide within 24 hours. thank you for your patience.
+- > hope 24 hours will be enough.
+- > please review.
+- > deletion.7z // 87.3 kb
+- > wait a moment.
+- > we are happy that you understand that the situations is serious. we are ready to work with you on the price in order to find a mutually profitable solution. give us a renewed offer and i'll bring that to my leadership for a discussion.
+- > [redacted].rar // 304 kb
+- > unlocker.7z // 1.24 mb
+- > the post has been removed but it might be returned at any second. we hope to come to an agreement within 2-3 days and go our separate ways. we need a decent counter offer from your side to make a final step to finalization.
+- > isn't it easier to come to an agreement with us?
+- > have you decided something? we are going to announce the leak today.
+- > you are welcome! take care!
+- > any progress?
+- > we're willing to set a $220,000 price for all the services listed above. let me know how you'd like to proceed.
+- > waiting for your reply on monday. not later.
+- > you can find yourself in our news column: https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion/ if you want this post to be removed, we have to agree at something.
+- > the discount is available till saturday.
+- > yes you can but we will wait for you on monday with an offer we can't refuse.
+- > so everyone involved needs to hurry up. we won't wait long.
+- > list.7z // 117 kb
+- > please speed things up on your part. no one is interested in dragging this out.
+- > you're welcome.
+- > hello. thank you.
+- > unlocker.7z // 3.04 mb
+- > [redacted]2023.xlsx // 336 kb
+- > win_unlocker.ex_ // 759 kb
+- > [redacted].iso // 7.63 mb
+- > chmod +x akira_v2
+./akira_v2 --logs trace --path /vmfs/volumes/ --secret id
+- > i understand the situation you're in. i don't make decisions here, i'm just a mediator. so, please manage to gather more funds and my bosses will be able to help. we have our internal policy and we can't accept such small amounts. thank you for understanding.
+- > or 2723140.00 in sgd.
+- > please confirm you have a permission to conduct a negotiation on behalf of your organization and we will proceed with the details.
+- > the longer you ignore our question, the longer you remain non-operational.
+- > waiting for an update on monday.
+- > we will put your name on our blog today.
+- > ok. thanks.
+- > how soon can w eexpect the rest?
+- > standing by.
+- > upload your reports, please. meanwhile, i was able to get approval for an additional discount. we're ready to close this at $590,000.
+- > we will provide everything within 24 hours. thank you for your patience.
+- > we are well aware of the holiday. thank you. yes, you can. but time's ticking.
+- >
+- > log_erase.7z // 327 kb
+- > unfortunately, we do not have this information since your case was closed.
+- > thanks for the offer but as you see you are too far from us at the moment. we can come towards you but you need to understand that we won't close the case for less than 6 figure sum. i'll wait for a better offer from to be able to discuss it with my leadership.
+- > ok you can send $140k to the same wallet from my previous message. how soon can we expect the transfer?
+- > deletion.7z // 128 kb
+- > got it, thanks.
+- > thank you.
+- > for the whole deal?
+- > we are waiting for your decision today.
+- > no we can't. only 6 figure amount will be considered and at the moment it is $225,000.
+- > please wait for the rest items within 24 hours.
+- > morning. we're waiting too.
+- > we're standing by.
+- > it depends on the amount you can offer us at the moment.
+- > you will receive it within next 24 hours. sorry for delay.
+- > we are waiting for your offer today.
+- > we're standing by for a real money, a real fair offer. now you're talking nothing, no value for us at all.
+- > rar password is [redacted]
+- > we will wait until monday for your offer. have a good weekends.
+- > [redacted]_list2.zip // 2.09 mb
+- > there were technical issues on our end, so i wasn't be able to contact you earlier.
+- > [redacted].xls // 26.4 kb
+- > [redacted].ps1 // 601 bytes
+- > the post deleted.
+- > raise your amount up to 6 figures and we will shake hands.
+- > i've just been told that we can complete this deal (all 5 options) with you for $150,000.
+- > net user [redacted] [redacted] /dom
+net user [redacted] [redacted] /dom
+- > note that this price is only valid today. tomorrow we will have to go back to a demand of $1.5 million. let's not complicate things.
+- > list.7z // 346 kb
+- > meanwhile, we will come up with a fair demand to you.
+- > i'll discuss with my team and be back here.
+- > we do confirm the terms. waiting for a test.
+- > options 2-5 will be $1,350,000.
+- > we believe you will cope with it. $170,000 is a price we can agree on with you. your colleagues should understand that. we are waiting for updates.
+- > list.rar // 848 kb
+- > let me know if you have troubles.
+- > we used zerologon sploit. they need to patch their dc.
+- > unlocker.7z // 1.79 mb
+- > waiting for positive new from you.
+- > hello. sure, you can use it.
+- > guys, we do not collect this info. we've provided you with all we had.
+- > don't you see our previous message? we've sent the list and outlined the deal terms.
+- > thank you for update. we're standing by.
+- > mega.nz
+[redacted]@proton.me
+w[redacted]
+
+archive password: [redacted]
+- > yes, they are.
+- > i'll let you know soon.
+- > [redacted].txt // 26.3 kb
+- > our apologies for delay. the archive pass is: [redacted]
+- > [redacted].doc // 1.86 mb
+- > [redacted]_log_del.zip // 3.06 mb
+- > i'll pass this to my team. pleas wait.
+- > we have until friday to get this over with. please speed things up on your part.
+- > the post has been removed.
+- > we have responded that we can communicate in this chat only. it is secured.
+- > we will check but we actually have some doubts that they are corrupted. if it is an attempt to win more time, nothing good will happen. please wait.
+- > [redacted].msc // 65.7 kb
+- > we will never accept such a small amount. you're offering us 20k against 1m. how do you think we will be able to agree? we will wait a bit more and then will cancel the deal. there is nothing to talk about at the moment.
+- > list.7z // 1.37 mb
+- > list.txt // 3.76 mb
+- > [redacted].vbm // 515 kb
+- > please check these.
+- > [redacted].jpg // 135 kb
+- > [redacted]_lisling.txt // 2.22 mb
+- > hello. we're here. i've asked my tech dept about this.
+- > hurry up please.
+- > we have to agree to the sum before friday. we will either come to an agreement this week or will cancel the deal. hope you're interested in a win-win resolution.
+- > [redacted].vbm // 796 kb
+- > i'll get back soon.
+- > hello. we appreciate this step on your part. we can't accept $62k but we're willing to come down to $90,000 and get this resolved finally.
+- > [redacted].xml // 324 bytes
+- > do you see our messages?
+- > $4m and we're ready to close this today.
+- > yes, these two list are everything we took.
+- > there are no cultural differences between us, it's just the way this business works. you were offering us pennies and was warned about publication.
+- > this chat is the only one place to communicate in secure. you will get a one-time note that contains a new chat id. this note will be destroyed once you open it.
+- > we will provide you soon.
+- > we won't be able to settle this at 50k. i think the best we can offer is a 50k discount but i need to talk to my team. we work with 6 figures only.
+- > you have to come closer to our demand if you want to resolve this. all i can do is $95,000.
+- > deletion.7z // 250 bytes
+- > wait a bit.
+- > do you have a permission to conduct a negotiation on behalf of your organization? once we get your reply you will be provided with all the details.
+- > i need you confirmation that you have a permission to conduct a negotiation on behalf of your company and make financial decisions.
+- > we've already given you the best price. raise your offer and we will end this incident finally.
+- > hello. can you see messages above?
+- > are you able to send $225,000 today? if so, we're willing to accept.
+- > [redacted]letter.doc // 21.4 kb
+- > you will get the price shortly.
+- > thank you for your offer. we're willing to accept $650,000 and get this over with you.
+- > list.zip // 2.53 mb
+- > we believe in you.
+- > $100,000 and we have a deal here.
+- > so what's your decision? we're almost done with uploading.
+- > list.txt // 9.56 mb
+- > here it is: [redacted]
+- > 50k won't work. i'll let you know a bit later.
+- > [redacted]_full_listing.rar // 1.46 mb
+- > [redacted].pdf // 187 kb
+- > we would accept $250,000.
+- > waiting for the update.
+- > hello. we're here, please wait.
+- > if your next step will be above six number sum, i'll ask my team if there any additional discount possible.
+- > encrypted for sure.
+- > list.txt // 208 kb
+- > i will provide in an hour.
+- > guys, first of all, 100k discount seems huge enough. secondly, we've set a fair price initially, so you can handle that with no problem. let 175k be the final number since this way both of us are satisfied.
+- > i'll pass this to my team.
+- > 0.00430313 received. you can proceed with the full amount.
+- > we can't accept this modest amount for sure. you had to to start with 6 figure sums at least.
+- > hello. given the circumstances and your "concerns", we are willing to step forward to close at $350,000, nothing more.
+- > so?
+- > [redacted].vbm // 844 kb
+- > i'll provide soon.
+- > [redacted].bat // 49 bytes
+- > ok. keep me posted.
+- > how soon can you make a transfer?
+- > sure. we will provide them soon.
+- > i see. unconfirmed yet.
+- > listing_[redacted].txt // 724 kb
+- > list.txt // 640 kb
+- > correct.
+- > hello. what have you decided?
+- > [redacted].jpg // 328 kb
+- > you have until friday.
+- > here it is finally!
+- > received.
+- > we're standing by, thanks.
+- > you can find your company name in our news column: akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion if you want this post to be removed, we have to agree on something.
+- > logs_erase.rar // 6.99 mb
+- > [redacted].pdf // 115 kb
+- > speed things up on your part and nothing bad will happen.
+- > sure.
+- > please refresh this chat periodically.
+- > [redacted] list // 980 kb
+- > unlockers.7z // 1.55 mb
+- > i am not sure we can settle this with you. i'll get back later.
+- > please try this password: [redacted]
+- > speed things up on your part please. we can't drag this out anymore.
+- > my management often gives discount to clients who work promptly. if you offer on monday will be good enough, we will move towards you, i think.
+- > win_unlocker_[redacted].ex_ // 759 kb
+- > we confirm the terms and the wallet id [redacted]
+- > you have 24 hours to sort this out. otherwise, we will be forced to close this case.
+- > list.rar // 2.48 mb
+- > [redacted].log // 1.86 mb
+- > ready to proceed?
+- > let me know what sum you see reasonable and i'll discuss it with my team.
+- > we hope so. we won't wait two more days.
+- > i am standing by.
+- > 0.0000387 received.
+- > we have rechecked your financial papers, so we're willing to come down to $1m. we won't ever consider 5 figure sum and i guess 6 figures too. let me know your decision promptly, since we have lots of clients interested in talking.
+- > we will provide in an hour.
+- > [redacted].xlsx // 14.2 kb
+- > yes. we'll provide everything soon.
+- > thank you for the update. we see that you want to resolve the incident with us, so we can come down with the price and accept $170,000. we can wait a bit for a better offer from you. may be there will be another donation that will allow you to finish our deal.
+- > unlocker.7z // 1.77 mb
+- > [redacted] // 748 kb
+- > guys, we both know that you are able to close this at $300,000. we've decreased our demand significantly so let's end this at $300k and get this over. i'll wait for a message from you asap.
+- > [redacted].vbm // 797 kb
+- > [redacted].rar // 3.12 mb
+- > you still have time until friday to get more funds. let's see what you will get and decide how to continue our deal.
+- > provide more details. what kind of error did you get?
+- > surely.
+- > we are waiting for your decision regarding the deal within a few hours.
+- > no way. we won't accept anything lower than $100k.
+- > what is your counter offer?
+- > passing to my tech dept. please wait.
+- > ok. thank you for the information.
+- > unlockers.7z // 2.02 mb
+- > list.rar // 1.52 mb
+- > what's your progress?
+- > could you please give us more details?
+- > let's see what your client thinks about that.
+- > [redacted]_dellog.txt // 2.54 mb
+- > do not give up. organize a meeting with you colleagues and try to find additional funds for this deal.
+- > we appreciate this offer but all we can do is to give you 20% discount in such circumstances.
+- > please wait
+- > this info doesn't cost $150,000 for sure. we used their vpn credentials to get into. we get access from different people on the darknet, this information is not in public domain. we recommend that they change your vpn credentials and reconsider their password policy - there is nothing to worry about anymore. you won't get more info than that.
+- > hello. we are waiting for a message from you.
+- > we are waiting for your response today.
+- > are we waiting for a $1,5m transfer, right?
+- > sure. my leadership decided to reduce the price to assist you with the process and we are ready to accept $125,000. i think this amount you can cope with and we can end all this.
+- > unlockers.7z // 2.1 mb
+- > [redacted].docx // 20.8 kb
+- > we will send the rest withing 24 hours.
+- > hello. checking on your status.
+- > initial access to your network was purchased on the dark web.
+- > we're standing by. keep us posted on a daily basis please.
+- > 12 hours.
+- > this file is correct. the downloading was interrupted and this archive was corrupted. we can't do anything with this.
+- > list.7z // 394 kb
+- > i am waiting for an update from you today.
+- > wait for details.
+- > we will provide all the deal terms during this day. please be in touch.
+- > hello. have you review the list?
+- > ok, standing by.
+- > hello. please be patient with us. we will provide everything shortly.
+- > log.rar // 3.45 mb
+- > i'll let you know a bit later.
+- > we're willing to set a $150,000 price for all the services we offer.
+- > so what do you have? let us know asap.
+- > we do confirm the terms.
+- > list.txt // 297 kb
+- > [redacted].xlsx // 2.75 mb
+- > can you see my message?
+- > listing.7z // 3.78 mb
+- > make sure that the file size does not exceed 10mb. our size limit is 10mb.
+- > list.txt // 812 kb
+- > apologies for the delay.
+- > [redacted] dellogs.rar // 524 kb
+- > you will receive the rest within 24 hours.
+- > hello. we are expecting to get a reply from you today.
+- > we're willing to accept $100,000 the lowest. you can go back and forth but we will not go any lower.
+- > ok
+- > [redacted] // 21.1 kb
+- > we will wait.
+- > we'll wait for your answer today.
+- > here they are. please check.
+- > in a few hours.
+- > we are not offended at all but your offer is not enough to close the deal unfortunately. we see you want a resolution a even made an offer that is not really bad. we want to come to an agreement with you and we suppose it is possible so we are ready to accept $170,000 and get this over with. i believe you and your colleagues are able to see that the agreement with us is more that possible. let us know asap.
+- > [redacted].xlsx // 15.6 kb
+- > we'll wait. speed the things up.
+- > please wait.
+- > standing by for a decent proposal on your part.
+- > please let us know whether you are interested in keeping the incident confidential. your silence will be evaluated as a negative response.
+- > we will discuss internally.
+- > we can't and won't wait forever.
+- > hello.
+- > please keep in mind that tight cooperation with us often leads to a more positive end of a deal.
+- > the archive is corrupted. please reupload asap.
+- > standing by. the faster you act, the more loyal my bosses are.
+- > about 200 gb in full.
+- > $250,000 is the discounted price for the tool. if you want the full deal and are ready to pay within 48 hours, we can accept $350,000.
+- > we're willing to set a $350,000 price for all the services we offer.
+- > sure. wait a bit.
+- > what has bitstamp support responded?
+- > esxi6.5 +win.zip // 2.29 mb
+- > you are welcome!
+- > [redacted].ps1 // 915 bytes
+- > list.zip // 712 kb
+- > are you kidding us? please answer our question and we will proceed.
+- > ok.
+- > [redacted].jpg // 134 kb
+- > the upper management has decided to provide you with $30,000 discount coming down to $220,000 amount. you can handle this sum with no harm to your business, let's get this over.
+- > you have to give us a renewed offer if you want this to end positively.
+- > [redacted].pdf // 1.66 mb
+- > we're prepared.
+- > deletion log file.rar // 8.24 mb
+- > i'll get back shortly.
+- > list.7z // 1.11 mb
+- > yes, it is.
+- > it was vpn credentials. we get access from different people on the darknet, this information is not in public domain. we recommend that you change your vpn credentials and reconsider your password policy - there is nothing to worry about anymore.
+- > there was a little mistake here. here is the correct unlocker.
+- > see the message above.
+- > thank you for the report but it seems like a trick, we were waiting for verified signed documents. anyway, even if it is true, we do not have real picture (your savings, your investments, your net assets etc.). we believe we're asking for a fair amount and are willing to close the deal.
+- > hello. will you have a deal with us or we can move to announcing your leak? let us know.
+- > yes.
+- > we confirm the receipt. please wait for the items.
+- > sure. i'll provide the file within 12 hours.
+- > 0.57 received. proceed please.
+- > how soon are you able to make a transfer?
+- > let me know asap.
+- > we didn't change the password for your vcenter.
+- > my team can accept 100k the lowest.
+- > we're well aware of you're a charity. we also know that you have enough funds to cover our initial demand. anyway, the leadership has approved $190,000 amount. the best option for you to get back on track and continue to help people.
+- > we are here. please wait.
+- > [redacted].xlsx // 522 kb
+- > i will let you know shortly. we're analyzing your financial papers to come up with a fair amount.
+- > so, let's do the right thing here settle this quickly and the people you care of will continue getting help.
+- > hello. any news? should we announce the incident on our blog?
+- > hi. we've heard these stories many times. what do you offer?
+
+ENCRYPTION:
+- > the decryptors will cost you $150,000, the evidence of data removal is $150,000 as well. we will give you the report for free in case you will purchase any of two mentioned options. the full package is always cheaper as you can see.
+- > so, we've gone through your files to define your financial abilities. we've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us to calculate our demand to you. we're willing to set a $3,500,000 price for all the services we offer:
+
+1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+
+let me know whether you're interested in a whole deal or in parts. this will affect the final price. atm, we highly recommend that you refer to your cyber insurance to cover our amount quickly minimizing all upcoming risks.
+- > these files were taken from your network prior to encryption. you can pick 2-3 random files from the list and we will upload them to this chat as a proof of possession. to prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back.
+
+we're looking through your financial papers to come up with a reasonable demand to you. we offer: 1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+
+let me know whether you're interested in a whole deal or in parts. this will affect the final price. 
+if we don't get a respond within next 24 hours, we will be forced to announce your corporate data leak on our blog.
+- > we value our reputation and honor all agreements made. you will not find a single case where we have broken an agreement or failed to fulfill any of the clauses. after payment you will receive a decryptor for each of your systems and manual on how to use it for particular file/system. if you face any problems during decryption process, we will be here to support. you will receive a deletion log which means the raid drives that contained the only copy of your data are fully formatted and erased.
+you will receive a security report that includes information about how we were able to penetrate your network, as well as exclusive first-hand information about the state of your network, the vulnerabilities that we found. what's more, you'll receive high-quality technical recommendations on eliminating any vulnerabilities and strengthening your network to secure your internal and external infrastructure. you will also receive written guarantees that we will not sell or publish your data, keep this conversation private, and delete this chat later. we won't come back for more money after payment and we won't attack you again.
+- > hello! first of all send us 2-3 encrypted files, so we can prove that we can restore them. secondly we have downloaded 400 gb of your sensaitve data. in the attachment we sent you the file-lists of data we have downloaded from your network. you can request any 2-3 files from that list as proof that we have the files. for the service of decryption and secure deletion of downloaded files your company must pay 900000 usd in btc.
+file list: https://temp.sh/[redacted]/all.txt
+- > we offer:
+1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+let me know whether you're interested in a whole deal or in parts. this will affect the final price.
+- > we've proven that we can decrypt the files and after payment we can give you back the files we took from your network. our initial demand has been decreased significantly and now you are saying that there is a risk. did i understand you right that this is your final decision and there will be no deal with you?
+- > we need your decision today. to gain bitcoins you need to go to any exchange platform as binance or coinbase. here are the guides: https://www.coinbase.com/how-to-buy/bitcoin
+https://www.binance.com/en/how-to-buy/bitcoin you also can buy bitcoin from any local brokers. if you withdraw funds from your bank account, then you have to inform the bank that you need this money for investment purposes only. once we get payment, we will provide the decryptors for each of your systems immediately.
+- > decrypted.7z // 22.1 kb
+- > decrypted.7z // 494 bytes
+- > we will upload them decrypted soon.
+- > once we agree on a price and receive payment, you will receive:
+
+1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+- > great. we confirm the terms. decryptors are ready. the wallet is above. let me know when you make a test transaction.
+- > you can review. if you want to test our decryption tool, provide 2-3 encrypted files asap.
+- > let us know if you are interested in a test decryption and proof files. waiting for your answer tomorrow.
+- > unlocker.exe -p="path_to_unlock"
+unlocker.exe -s="c:\paths.txt"
+where "paths.txt" is a list of paths for the decryptor, each path on a new line
+- > decryptors.zip // 3.04 mb
+- > here are the files. you can share some files for a test decryption.
+- > we value our reputation and honor all agreements made. you will not find a single case where we have broken an agreement or failed to fulfill any of the clauses.
+
+we are the ones who can properly decrypt your data and restore your infrastructure in a short period of time. 
+after payment you will receive a decryptor for each of your systems and manual on how to use it for particular file/system. you will be able to restore your infrastructure within 24 hours. if you face any problems during decryption process, we will be here to support.
+you will receive a deletion log which means the raid drives that contained the only copy of your data are fully formatted and erased. 
+you will receive a security report that includes information about how we were able to penetrate your network, as well as exclusive first-hand information about the state of your network, the vulnerabilities that we found. what's more, you'll receive high-quality technical recommendations on eliminating any vulnerabilities and strengthening your network to secure your internal and external infrastructure. 
+you will also receive written guarantees that we will not sell or publish your data, keep this conversation private, and delete this chat later. we won't come back for more money after payment and we won't attack you again.
+- > to prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 mb each to our chat and we will upload decrypted copies back. our tool works on every system/file format. as for your upcoming proposal, we haven't talked about any discounts yet, so you're wrong since you have to get as close as possible to our initial demand to get this over. thank you.
+- > these files were taken from your network prior to encryption. you can pick 2-3 random files from the list and we will upload them to this chat as a proof of possession. to prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back.
+
+we're looking through your financial papers to come up with a reasonable demand to you. we offer: 1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+
+let me know whether you're interested in a whole deal or in parts. this will affect the final price.
+- > so, we've gone through your files to define your financial abilities. we've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us calculate our demand to you. we're willing to set a $350,000 price for all the services we offer: 1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future. let me know whether you're interested in a whole deal or in parts. this will affect the final price.
+- > so, we didn't take your data. we are the ones who can properly decrypt your data and restore your infrastructure in a short period of time. 
+after payment you will receive a decryptor for each of your systems and manual on how to use it for particular file/system. if you face any problems during decryption process, we will be here to support. you will receive a security report that includes information about how we were able to penetrate your network, as well as exclusive first-hand information about the state of your network, the vulnerabilities that we found. what's more, you'll receive high-quality technical recommendations on eliminating any vulnerabilities and strengthening your network to secure your internal and external infrastructure. 
+you will also receive written guarantees that we will keep this conversation private, and delete this chat later. we won't come back for more money after payment and we won't attack you again. the price is $10,000,000. to prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 mb each to our chat and we will upload decrypted copies back.
+- > you will get the decryptors immediately after payment.
+- > these files were taken from your network prior to encryption. you can pick 2-3 random files up to 10 mb each from the list and we will upload them to this chat as a proof of possession. to prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 mb each to our chat and we will upload decrypted copies back.
+
+we're looking through your financial papers to come up with a reasonable demand to you. we offer: 1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+
+let me know whether you're interested in a whole deal or in parts. this will affect the final price. 
+if we don't get a respond within next 24 hours, we will be forced to announce your corporate data leak on our blog.
+- > that's good. after we receive the transfer we will provide you with the decryption tool and the rest including our guarantees not to attack you again. you will be provided with our btc wallet id soon.
+- > we didn't take your data. we are the ones who can properly decrypt your data and restore your infrastructure in a short period of time. 
+after payment you will receive a decryptor for each of your systems and manual on how to use it for particular file/system. if you face any problems during decryption process, we will be here to support. you will receive a security report that includes information about how we were able to penetrate your network, as well as exclusive first-hand information about the state of your network, the vulnerabilities that we found. what's more, you'll receive high-quality technical recommendations on eliminating any vulnerabilities and strengthening your network to secure your internal and external infrastructure. 
+you will also receive written guarantees that we will keep this conversation private, and delete this chat later. we won't come back for more money after payment and we won't attack you again. the price is $100,000. to prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 mb each to our chat and we will upload decrypted copies back.
+- > decrypted.7z // 1.14 mb
+- > unlocker.exe -p="path_to_unlock"
+unlocker.exe -s="c:\paths.txt"
+where "paths.txt" is a list of paths for the decryptor, each path on a new line
+same arguments works with esxi decryptor
+- > there shouldn't be any troubles with decrypting your files of size 2mb and less. as well as with the rest.
+- > these files were taken from your network prior to encryption. you can pick 2-3 random files up to 10mb size from the list and we will upload them to this chat as a proof of possession. to prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10mb size to our chat and we will upload decrypted copies back.
+- > yes, the interruption of decryption process could damage files. send me logs and i will ask my tech team.
+- > we have to inform you that we are experiencing technical issues at the moment. all the details will be provided on monday the latest. our deepest apologies. meanwhile, to prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back. we offer: 1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future. let me know whether you're interested in a whole deal or in parts. this will affect the final price.
+- > our request is quite possible for a company like yours. we both know this. if you need our decryption services only, we can end this incident at $1,000,000. we won't go lower. this is a good price for getting back to business quick and without troubles.
+- > so, we've gone through your files to define your financial abilities. we've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us to calculate our demand to you. we're willing to set a $350,000 price for all the services we offer:
+
+1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+
+let me know whether you're interested in a whole deal or in parts. this will affect the final price.
+- > decrypted.7z // 7.67 mb
+- > we will provide these files soon. also will you upload files for decryption?
+- > here are the files. do you want to give us some files for a test decryption or we can move to payment details?
+- > you will receive all the decryptors immediately after payment. please upload vmdk file. we will provide you with requested files soon as well.
+- >
+we accept payments in bitcoins. to gain bitcoins you have to go to any exchange platform as binance or coinbase. here are the guides: https://www.coinbase.com/how-to-buy/bitcoin
+https://www.binance.com/en/how-to-buy/bitcoin you also can buy bitcoin from any local brokers. if you withdraw funds from your bank account, then you have to inform the bank that you need this money for investment purposes only. we are the ones who can properly decrypt your data and restore your infrastructure in a short period of time.
+after payment you will receive a decryptor for each of your systems and manual on how to use it for particular file/system. you will be able to restore your infrastructure within 24 hours. if you face any problems during decryption process, we will be here to support. you will receive a security report that includes information about how we were able to penitrate your network, as well as exclusive first-hand information about the state of your network, the vulnerabilities that we found. what's more, you'll receive high-quality technical recommendations on eliminating any vulnerabilities and strengthening your network to secure your internal and external infrastructure.
+you will also receive written guarantees that we will keep this conversation private, and delete this chat later. we won't come back for more money after payment and we won't attack you again. our price is $200,000. once you confirm the sum, i will drop off our wallet id.
+- > you have already get decryptors for free. i've provided you with more than enough info.
+- > give me a few paths to files you want to see from the list. after payment you will get the tool that will decrypt your systems.
+- > so, we've gone through your files to define your financial abilities. we've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us to calculate our demand to you. we're willing to set a $165,000 price for all the services we offer:
+
+1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+
+let me know whether you're interested in a whole deal or in parts. this will affect the final price.
+- > these files were taken from your network prior to encryption. you can pick 2-3 random files from the list and we will upload them to this chat as a proof of possession. to prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back.
+- > unlocker.exe -p="path_to_unlock"
+unlocker.exe -s="c:\paths.txt"
+where "paths.txt" is a list of paths for the decryptor, each path on a new line
+esxi commands
+1) chmod +x unlocker
+2) ./unlocker -p="/vmfs/volumes"
+- > so, we've gone through your files to define your financial abilities. we've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us calculate our demand to you. we're willing to set a $250,000 price for all the services we offer: 1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future. let me know whether you're interested in a whole deal or in parts. this will affect the final price.
+- > $100k for decryption or data removal only. here is our btc wallet [redacted]
+- > these files were taken from your network prior to encryption. you can pick 2-3 random files up to 10 mb each from the list and we will upload them to this chat as a proof of possession. to prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 mb each to our chat and we will upload decrypted copies back.
+
+we're looking through your financial papers to come up with a reasonable demand to you. we offer: 1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+
+let me know whether you're interested in a whole deal or in parts. this will affect the final price.
+- > you can give us any encrypted files for a test decryption and ask for any files from the list as a proof.
+- > i'm pretty confident that you will decrypt everything we've encrypted, with our took, but i will ask my tech guys about assurances as well.
+- > we will upload the decrypted copies soon.
+- > decrypted.zip // 9.88 kb
+- > so, we've gone through your files to define your financial abilities. we've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us to calculate our demand to you. we're willing to set a $250,000 price for all the services we offer: 1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future. let me know whether you're interested in a whole deal or in parts. this will affect the final price.
+- > these files were taken from your network prior to encryption. you can pick 2-3 random files from the list and we will upload them to this chat as a proof of possession. to prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back. we're looking through your financial papers to come up with a reasonable demand to you. we offer: 1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future. let me know whether you're interested in a whole deal or in parts. this will affect the final price.
+if we don't get a respond within next 24 hours, we will be forced to announce your corporate data leak on our blog.
+- > unlocker.exe -p="path_to_unlock" 
+unlocker.exe -s="c:\paths.txt" 
+where "paths.txt" is a list of paths for the decryptor, each path on a new line 
+esxi commands 
+1) chmod +x unlocker 
+2) ./unlocker -p="/vmfs/volumes"
+- > we'll give you the demand after we study your financial files. give me 2-3 files about 10mb size to test our decryption tool.
+- > so, we've gone through your files to define your financial abilities. we've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us to calculate our demand to you. we're willing to set a $300,000 price for all the services we offer:
+
+1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+
+let me know whether you're interested in a whole deal or in parts. this will affect the final price. atm, we highly recommend that you refer to your cyber insurance to cover our amount quickly minimizing all upcoming risks.
+- > decrypted.7z // 3.03 kb
+- > 1) full decryption assistance - $250,000;
+2) evidence of data removal - $150,000;
+3) security report on vulnerabilities we found - $25,000;
+4) guarantees are included to each of the above options.
+- > i'll upload them decrypted soon.
+- > so, i passed your request regarding those files to the tech department. after decryption these same files were increased in size and then re-encrypted. after decryption, the files remained the same size, which means that our decryptor absolutely works correctly. it also means that you tried to play unfairly and gain more time. we also doubt your stories about "good backups". 
+
+based on all of the above, our offer of $1.4 million when paid today still stands, but we will not accept anything below $2 million on monday. if you refuse and break the deal, we will simply publish your stuff and forget about you.
+- > decrypt.zip // 479 kb
+- > we will decrypt every file that we encrypted. the list reflects everything we took. we do not decrypt per file.
+- > so, we've gone through your files to define your financial abilities. we've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us to calculate our demand to you. we're willing to set a $2,000,000 price for all the services we offer:
+
+1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+
+let me know whether you're interested in a whole deal or in parts. this will affect the final price.
+- > well, i got assurance from my tech dept that all of your encrypted files including huge sql server and dbs will be successfully decrypted. if you face any problems during decryption process, we will be here to support 24/7. after payment you will receive decryptors and commands how to run them. we've already decrypted cases where encryption process was interrupted. we have carefully checked encrypted files you gave us for test and are sure there won;t be any problems.
+- > here are the decrypted files. do you need files for proof?
+- > please review the files. if you need to test our decryption tool, give me 2-3 encrypted files asap.
+- > we can't provide, sorry. all we can offer you is to choose 2-3 encrypted files and upoad them to our chat so we can will upload decrypted copies back for you to be calm.
+- > decrypt.exe
+name:
+        decrypt
+
+usage:
+        cli args
+
+flags:
+        --path    : start path
+        --secret  : private key
+        --logs    : print logs. valid values for: trace, debug, error, info, warn. default: off
+        -h, --help        : show help
+-----------------------------------------------------------
+build information:
+version: 2023.9.5
+secret key: "[redacted]"
+-----------------------------------------------------------
+decrypt.exe --path  --secret  : private key --logs 
+----
+decrypt.exe --path c:\ --secret [redacted] --logs trace
+decrypt.exe --secret [redacted] --logs trace
+- > we have received, thank you. please wait for the decryptor first.
+- > after payment you will receive a decryptor for each of your systems and manual on how to use it for particular file/system. you will receive a deletion log which means the raid drives that contained the only copy of your data are fully formatted and erased. you will receive a security report that includes information about how we were able to penitrate your network, as well as exclusive first-hand information about the state of your network, the vulnerabilities that we found. what's more, you'll receive high-quality technical recommendations on eliminating any vulnerabilities and strengthening your network to secure your internal and external infrastructure. you will also receive written guarantees that we will not sell or publish your data, keep this conversation private, and delete this chat later. we won't come back for more money after payment and we won't attack you again.
+
+i will let you know the price shortly, we're reviewing your financial papers to come up with a reasonable demand to you.
+- > decrypted.7z // 4.99 mb
+- > we are not really confused by your financials. if you care of people and are responsible for them you should protect them. if you take a look at the list we gave you, you would see what kind of information we obtained about the people your are in charge of. how did it happen? they were not protected enough and their documents were stolen. imagine that docs was someone's you really care about. but as you have a cyber insurance, you can prevent the leak. so do this. let me know if you are interested in proofs or a test decryption so we can speed everything up. if you act quick, we can give you a 20% discount.
+- > the files are decrypted. we need to move to payment details.
+- > do you want to check our decryption tool?
+- > do not forget about files for the test decryption, if you need it.
+- > here are the decrypted ones. ready to move to payment?
+- > we decrypt the files you give only. the tool will be provided after the payment and you will be provided with our assistance if needed. if our tool didn't work, we wouldn't be ever paid. please wait for the files.
+- > decrypted.7z // 22 kb
+- > full decryption assistance costs 150k in your case, the evidence of data removal is 125k and the security report is 25k. all the guarantees are coming as a default.
+- > please wait for them decrypted.
+- > so, we've gone through your files to define your financial abilities. we're willing to set a $300,000 price for all the services we offer:
+
+1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+
+let me know whether you're interested in a whole deal or in parts.
+- > as for the third file, we have a question. did you stop the encryption process?
+- > we'll let you know our price for the decryption tool soon.
+- > we will send you the decryption key but payment first. if you want to test the tool send us a few non-significant files. please do not complicate things.
+- > we will give you our decryption tool after payment. you will recover your systems within 24 hours.
+- > so, we've gone through your files to define your financial abilities. we've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us to calculate our demand to you. we're willing to set a $1,700,000 price for all the services we offer:
+
+1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+
+let me know whether you're interested in a whole deal or in parts. this will affect the final price.
+- > decrypted.7z // 60.3 kb
+- > please review. give me encrypted files asap, if you want to test our decryption tool.
+- > we upload them decrypted soon.
+- > to gain bitcoins you need to go to any exchange platform as binance or coinbase. here are the guides: https://www.coinbase.com/how-to-buy/bitcoin
+https://www.binance.com/en/how-to-buy/bitcoin you also can buy bitcoin from any local brokers. if you withdraw funds from your bank account, then you have to inform the bank that you need this money for investment purposes only. once we get payment, we will provide the decryptors for each of your systems immediately.
+- > there is a different unlocker for each system.
+if it's esxi - you should use the decryptor for linux.
+if we're talking about windows, you should use the .exe unlocker.
+
+
+unlocker.exe -p="path_to_unlock"
+unlocker.exe -s="c:\paths.txt"
+where "paths.txt" is a list of paths for the decryptor, each path on a new line
+same arguments works with esxi decryptor
+- > $100k is the lowest price. we can give you our decryption tool or data removal evidence for this amount. each of these options costs $100k, our report is for $25k.
+- > given the fact that we hold data of two more companies, we've reconsidered the price for the full deal - $2,400,000. let us know whether you are interested in a test decryption or files for proof. in case of quick payment we can make a discount.
+- > $175,000 and we will get this over. we can't go any lower. to prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 mb each to our chat and we will upload decrypted copies back.
+- > the full package will cost you $180,000 where the full decryption assistance is $100,000, the evidence of data removal is $70,000 and the report is $10,000. all the guarantees are coming as a default.
+- > 1) full decryption assistance $275,000;
+2) evidence of data removal $200,000;
+3) security report on vulnerabilities we found $35,000;
+guarantees are included. the full deal is $400,000.
+- > we're looking through your files to calculate a fair demand to you. i will let you know the sum shortly. we offer:
+1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+let me know whether you're interested in a whole deal or in parts. this will affect the final price.
+- > unlocker.exe -p="path_to_unlock"
+unlocker.exe -s="c:\paths.txt"
+where "paths.txt" is a list of paths for the decryptor, each path on a new line
+same arguments work with the esxi decryptor
+- > we will decrypt the uploaded file. please wait.
+- > hello. we're well aware of the industry you operate in. it doesn't matter, fortunately or not. we've heard these stories so many times. we're willing to take a step towards you and come down to $1,7m usd. our patience has a limit, so you better speed things up and we will get you back on track immediately. any further complications can lead to your data disclosure as well as decryption keys deleting. we will wait for 24 hours more and if there are no progress, we will delete this chat. we're not interested in long dialogues.
+
+PAYMENT:
+- > we accept payments in bitcoins. once we agree on the price, i'll provide you our wallet id.
+- > sure. $250,000 if you make payment within 48 hours.
+- > how's your progress with payment?
+- > we accept payments in bitcoins. to gain bitcoins you need to go to any exchange platform as binance or coinbase. here are the guides: https://www.coinbase.com/how-to-buy/bitcoin
+https://www.binance.com/en/how-to-buy/bitcoin you also can buy bitcoin from any local brokers. if you withdraw funds from your bank account, then you have to inform the bank that you need this money for investment purposes only.
+- > well, the bosses appreciate your offer as well as your willingness to get this over with us. we're well aware of how payments work. your transfer won't be frozen if you refer to any local broker who can facilitate the transfer. anyway, my bosses has agreed to take a final step and come down to $1,500,000. we can even suggest you to split this into two payments. here is our btc wallet id for payment: [redacted]
+- > you can review. ready to move to payment? once you confirm i will give you our btc wallet.
+- > here is the file. let's move to payment details. do you need all five options we offer?
+- > ready to move to payment?
+- > we get lots of payments from [redacted]. everything will be fine.
+- > i will provide you with a btc wallet id in a few minutes.
+- > we confirm. i'll provide our btc wallet soon.
+- > we accept btc only. we expect to get payment before the weekend.
+- > it is already tuesday. if we don't receive payment within 24 hours, you will see your name in our blog. your data will be uploaded before the weekend this way.
+- > to gain bitcoins you need to go to any exchange platform as binance or coinbase. here are the guides: https://www.coinbase.com/how-to-buy/bitcoin
+https://www.binance.com/en/how-to-buy/bitcoin you also can buy bitcoin from any local brokers. if you withdraw funds from your bank account, then you have to inform the bank that you need this money for investment purposes only. additionally, maybe this title will help: https://www.csoonline.com/article/570047/how-to-buy-bitcoin-for-ransomware-payment-if-you-must.html
+- > we have received the final payment, thank you.
+- > i'll ask to double check but bear in mind that we are posting you in our blog tomorrow if there is no payment decision from you.
+- > we have received 2.66385307 btc in total. please proceed further.
+- > we will never accept your terms, so we can end this right now. you can go back and forth but we will never be lower than 230k for the full package. the first option is $140,000 and it is the bottom line. we accept payments in full, so you can transfer funds to your broker in parts.
+- > ok. we are ready to close the deal at $120,000. i am pretty sure you can add a bit to your current offer and make a transaction that will satisfy both parties. here is our btc wallet [redacted] please let me know how soon can we expect the transfer.
+- > it has been more than a week. i believe we will have to publish your data this week if we don't receive payment.
+- > i've discussed with my management. we can accept $75,000. this is final. do you need our btc wallet?
+- > the host password was changed, correct. you will get the pass after payment.
+- > please review. ready to discuss payment?
+- > here is the btc wallet [redacted] let me know when can we expect the transfer.
+- > in case of a quick payment, we will be able to consider a good discount.
+- > when will we see the transfer? we won't be waiting for another week. we either publish your data prior to weekend or receive the payment and get this over.
+- > in case you of quick payment, we will be able to consider a discount. we are going to work with 7 figures though.
+- > the balance is 2.66385307 btc or $169,553 at this moment. so you need to send 55,447. we are waiting. thank you.
+- > we agree. how soon are you able to transfer btc 1.7235?
+- > 0.01477521 btc received. you can proceed with the first part.
+- > we have received 0.00001 btc. standing by for the rest.
+- > we can't provide anything before payment. i will learn how we can help.
+- > we can proceed to payment options. i will let you know our demand shortly.
+- > in our turn we appreciate your willingness to end this with us but $208k won't resolve the incident. my team is ready to accept $300,000 for the deal this week. this is our final offer. let us get this over. here is our btc wallet [redacted]
+- > we see your intentions to resolve this so we can accept $150,000 and close the deal. there is a little gap between us and i think there shouldn't be a problem for you. here is our btc wallet [redacted]. let me know how soon can we expect the transfer.
+- > the management has decided to accept your offer. i will provide you with a btc wallet id shortly.
+- > payment received.
+- > 0.00125 btc received. you can proceed with the rest.
+- > we have to proceed to payment options.
+- > your vсenter was in the quality of a virtual machine on one of the esxi server. all vms on this esxi have been encrypted so you can't login to your vcenter. after payment you will be able to access to any of your data/servers.
+- > we can't read your thoughts. you left us almost 10 days ago and haven't dropped a word. hurry up on your end. the post will be taken down immediately after payment.
+- > initial access to your network was purchased on the dark web. then kerberoasting was carried out and we got passwords hashes. then we just bruted these and got domain admin password. spending weeks inside of your network we've managed to detect some fails we highly recommend to eliminate:
+
+1. none of your employees should open suspicious emails, suspicious links or download any files, much less run them on their computer.
+2. use strong passwords, change them as often as possible (1-2 times per month at least). passwords should not match or be repeated on different resources.
+3. install 2fa wherever possible.
+4. use the latest versions of operating systems, as they are less vulnerable to attacks.
+5. update all software versions.
+6. use antivirus solutions and traffic monitoring tools.
+7. create a jump host for your vpn. use unique credentials on it that differ from domain one.
+8. use backup software with cloud storage which supports a token key.
+9. instruct your employees as often as possible about online safety precautions. the most vulnerable point is the human factor and the irresponsibility of your employees, system administrators, etc.
+
+we guarantee that we will not sell or publish your data, keep this conversation private, and delete this chat later. we won't come back for more money after payment and we won't attack you again.
+
+we wish you safety, calmness and lots of benefits in the future. thank you for working with us and your careful attitude to your security.
+- > here is the wallet: [redacted]
+
+how soon should we wait for a transfer? we expect to get payment before the weekend.
+- > can you please explain? are we going to have a deal? you've already sent us the test payment.
+- > the leadership has agreed to accept your offer. here is the btc wallet id for payment: [redacted]
+
+
+
+
+how soon are you going to fund our wallet?
+- > we accept bitcoins. to gain bitcoins you have to go to any exchange platform as binance or coinbase. here are the guides: https://www.coinbase.com/how-to-buy/bitcoin
+https://www.binance.com/en/how-to-buy/bitcoin you also can buy bitcoin from any local brokers. if you withdraw funds from your bank account, then you have to inform the bank that you need this money for investment purposes only. here is our btc wallet id for payment: [redacted]
+- > 0.016 btc unconfirmed. you can proceed with the rest.
+- > hello. we have received 0.0001 btc.
+- > we do have a deal. here is our btc wallet [redacted] let me know when you are ready to make a test transaction.
+- > the post will be removed after payment only. give us an update from your boss today please. thank you.
+- > so, we can accept $150,000 as final. we won't go any lower. here is our btc wallet [redacted] it's up to you.
+- > let's move to payments discussion then. i'll let you know our demand shortly.
+- > we appreciate your efforts to end this with us. the lowest number we can accept for the case is $250,000. not less. we can give you until friday to make the payment, since our dialogue is long enough and we need to close the case.
+- > if we receive the payment within next 48 hours, we will provide you with a 20% discount. 
+after payment you will receive a deletion log which means the raid drives that contained the only copy of your data are fully formatted and erased. there is no need to deceive you since we value our reputation and you will find no case where we didn't honor an agreement.
+if we fail to agree, we will not only publish your data but also notify all of your clients, partners, employees and so on. in some cases they will be guided on how to file a claim properly.
+you will receive a security report that includes information about how we were able to penitrate your network, as well as exclusive first-hand information about the state of your network, the vulnerabilities that we found. what's more, you'll receive high-quality technical recommendations on eliminating any vulnerabilities and strengthening your network to secure your internal and external infrastructure. you will also receive written guarantees that we will not sell or publish your data, keep this conversation private, and delete this chat later. we won't come back for more money after payment and we won't attack you again.
+- > we don't mind. anyway, you will receive everything once we get payment in full.
+- > we can agree 21.07 btc total. waiting for a test payment.
+- > we can remove the post after payment only. the faster you act, the sooner the post will be removed.
+- > ok, the leadership has approved that number. here is a btc wallet id for payment: [redacted]
+- > come on, mates. if there is no payment by the weekend, we will have to raise the price to $275,000 on monday. please speed things up on your part.
+- > we have received the payment, thank you. please wait for all the promised materials within 24 hours.
+- > here it is: [redacted]
+we expect to get payment within next 24 hours.
+- > we see that we are close to the resolving as never before. so we're ready to accept  $100,000 within the next 24 hours. so there is an extra discount from us and you have time to gather the sum. i suppose that is the best finish for both sides at this moment. you can fund this btc wallet when you are ready [redacted]
+- > the post will be taken down after payment.
+- > hello. we're willing to accept $110,000 as a final. here is the btc wallet id for payment: [redacted]
+- > 0.008 btc received.
+- > are you ready to proceed to payment details?
+- > are you interested in the full package, right? if you're able to arrange payment within next 2-3 days, we will consider a discount but it won't be more than 20%.
+- > hello. if we don't receive payment tomorrow, we will have to publish your data. let it be 6pm sg time.
+
+THREATS:
+- > we appreciate your offer but it is far away from a fair deal that we're here trying to reach. as a goodwill, we're willing to accept $200,000 which is capable for you to handle. you're well aware of the financial and reputational consequences in case we fail to agree. let's be objective.
+
+PROOF:
+- > please, see the proof of deletion above. we're waiting for the rest part.
+- > we have received the first part. sending the proof of deletion now.
+- > standing by. preparing the proof of deletion now.

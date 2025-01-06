@@ -1,0 +1,58 @@
+
+OTHER:
+- bitcoin takes some time to receive basically
+- i'll ask all that to the affiliate in question.
+- as soon as it confirms.
+- do tell your guy to make a test transfer of 10$ and get a confirmation from me before he sends the full 85k
+- please test and verify that it works before sending it to me.
+- please upload it to one of the websites i've told you to. we can't download from gofile.
+- your new deadline, that we both agreed on, was set on the 10th, friday. i'll leave the rest to the affiliate.
+- and finally, update your exchange server, since it was the main entry point.
+- your link doesn't work, again.
+- sure, good night.
+- considering the affiliate wasn't able to provide a sample/list, i think we can settle at 150k in bitcoin.
+- just give it a couple seconds, the website can be slow at times
+- [redacted]
+- disconnect you how?
+yeah, i'll set your deadline on friday next week.
+- to override this default you can add the following registry  dword, tokenleakdetectdelaysecs, and set it to a recommended value of  30 seconds. hkey_local_machine\system\currentcontrolset\control\lsa\  stop storing passwords in memory by changing the “uselogoncredential”  registry setting to ‘0’ instead of the default value of “1” and  passwords are no longer available to mimikatz .  hkey_local_machine\system\currentcontrolset\control\securityproviders\wdigest  start monitoring your systems for unauthorized software and malware,  which should help identify mimikatz installation and activity. you’ll  have to test these changes to see what breaks, but the idea is to  implement some fairly basic changes to protect your network. in your  specific case the critical vulnerabiliry contained forti vpn, please  update fortivpn and monitor for updates and windows updates. inform your  it stuff to remove the posibility of storing user passwords within the  network.
+- what about 100k?
+- you are supposed to copy the url in your browser instead of copying the link from the download button.
+- also we recommend you to use sentinelav and dattoo backup  system. also veeam tapes is good ,but pc with veeam should be in  workgroup and user should be different from main domain. every pc should  have av. don't let any pc without av. also try configure 2fa (at all  network pc) when you connect to remote desktop. use password on av. also  tip for you: if you want chage fortigate vpn to other . we dont  reccomend you to use sonic vpn,pulse secure, because its under massive hack
+- it'd be better for your it to reach out directly if possible if anything's to occur
+- yeah don't worry about that, your new deadline's set at friday next week
+- i'll send that to you in a bit
+- as you are an enterprise client of ours, we will provide you with customer support throughout the process. you may use this chat to get in contact with us.
+- defend your credentials from mimikatz limit administrator privileges to  the smallest group possible. even if you have thousands of user  accounts, you should probably only have 2-5 administrator accounts.  start with two accounts and force users to justify any additional  accounts added to the administrator group. the next thing that you  should do is upgrade the schema and functional level of your forest and  domain to at least 2012 r2. this domain functional level adds a fairly  new group called “protected users”. along with other protections, the  members of the protected users group cannot authenticate by using ntlm,  digest authentication, or credssp. these changes provide powerful  protections that make mimikatz almost worthless. verify kb2871997 has  been installed to apply additional required security. after you install  this security update, the default setting for non-protected users on  windows 7 and windows 8 is to not force clear leaked logon session  credentials.
+- are we still connected?
+- hello? the link doesn't work
+- confirmed. you may continue with the transfer
+
+DATA_HANDLING:
+- you can create an archive with couple files and upload them to https://share.riseup.net.
+- i can confirm all but the 3rd, as we don't have access to your data. however i can guarantee an erasure of your data.
+- i can confirm the data in question wasn't downloaded to our storage units but the affiliate's.
+- https://anonfiles.com/
+- are the extensions appended to the encrypted files ".avos2"?
+- as for data, we instructed an erasure and it was confirmed all your data is erased. so you are safe. thank you for your business.
+- i can't reach the affiliate responsible for the attack at the moment. i did tell him to provide you with a sample or list of the files exfiltrated. they'll reply here when they're back.
+- we've downloaded the data. please allow us some time to process it
+- you can see the files in few days if we have to publish samples on the blog. we will not provide anything else at this stage.
+
+ENCRYPTION:
+- then i can manually decrypt the files for you.
+we can decrypt .avos2, however the website can't at the moment.
+- this is because both the encryption/decryption are first built and tested in windows, then this encryption algorithm is ported to our web services.
+- as staff, we can guarantee that whatever data the affiliate has taken will be erased, and the decryption keys will be delivered.
+- those are our terms and we never go against them. you know better than us what data we took. we took it from the servers we encrypted. anyways, we are away with no access to data storage, so another scenario is not possible. staff can help to decrypt if you reach an agreement. data will be erased when we come back.
+- for now i'd suggest that perhaps your management should appraise the value of the decryption itself.
+- i decrypted the png files. https://share.riseup.net/#[redacted]
+- avos2 came out recently and we can't provide test decryptions on our website for it at the moment.
+- i can't contact the affiliate in question. they seem to be unavailable at the time. i won't be able to provide you information on the data taken.
+
+i, however, can provide you the decryption keys if you do pay for it.
+
+PAYMENT:
+- the payment confirmed. thank you for your business. the affiliate should provide the security report.
+- hello. we think it's time to finalize your negotiations. please let us know how do you wish to proceed with payment.
+- alright that's fair i suppose. let us know when you have the money in btc.

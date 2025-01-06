@@ -1,0 +1,57 @@
+
+OTHER:
+- yes.
+- 102 gb. the list has been provided to you.
+- hello. you have not yet made a counteroffer to us. how much are you willing to pay?
+- we are ready to help you solve your problem.
+- have you searched google for information about us?
+- the amount that you were told is 400k and not 200k
+- covid was a long time ago. now the world has changed and the situation in the world is already different. the amount you name does not correspond to your company. i suggest you google it again, we have a certain strategy and we stick to it. there are articles confirming this. we will not settle for too small a sum. i think you're pretending you don't understand this.
+- yes
+- you can think about ways to solve this problem. you know what we require.
+- google it. there is a lot of information about us there. publishing even an announcement on a blog attracts a lot of attention to the company. government agencies and special services. we would like to help you avoid problems. we are even ready to reduce the cost to 350k.
+- ok
+- yes. all.
+- then you can offer another adequate amount and we will consider it. not 15k.
+- we will extend the deadline, but please keep in mind that if we do not start more meaningful negotiations next week, we will not wait for you. see you on monday. 
+- perhaps publishing on our excellent blog will expedite the negotiation process with you?
+- ok.
+- we have reviewed your network and studied your company. based on this information, we have calculated the amount. if you would like to propose another amount, it should be reasonable, not $15k.
+- i mean, what kind of serious offer are you ready to make? 15k this is not a serious conversation.
+- the amount you mention is also unrealistic. if you want to resolve the issue, name the real amount.
+- ok, wait. 
+- do you want to offer me a job?
+- tell me how much you can pay. not 15k. we have already reduced it from 400k to 350k.
+- agreed, we await monday.
+- we'll upload it to you now. for privacy reasons, we have not made an announcement on our blog yet.
+- we will be waiting for your word.
+- ok. wait. 
+- yes, we saw what you have, and based on this we said the price. my management wants us to publish an announcement of this incident and turn on the timer. tell me the price that i can tell the management. publishing an announcement creates a lot of problems, especially in such cases. we would like to resolve the issue through negotiations, without a public statement.
+- yes, you do have the opportunity to do this.
+
+DATA_HANDLING:
+- what specific files do you want to see? the size should be small and the contents of the files should not be critical.
+- would you like us to provide you with a list of these files?
+- you can select 3 files that are not too large so that we can provide confirmation.
+- [redacted] samples.7z filesize:1468
+- in your server at 192.168.3.11, we used truecrypt. if you want to save your data, then don't touch the hard drive. and if we agree, you will have the opportunity to restore all the data.
+- od10 id4.53 p4.5 t0.375 1598656583.dxf filesize:500
+- if you expect a good discount, then you should speed up your negotiations with us. have you received the files?
+- list of files that we downloaded from your corporate network.
+- we understand your situation. do you know that you also lost more than 100 gb of data?
+- tree.7z filesize:895892
+- tree.zip filesize:255819
+- files.7z filesize:1097058
+- tree.zip filesize:889780
+- shroud assembly.pdf filesize:849082
+- [redacted].pdf filesize:53419
+
+PAYMENT:
+- the price is 400 000$. payment in btc.
+- the wallet and the amount of btc have been adjusted to make this payment.
+- you're delaying time. the announcement of the publication of the files is posted on the blog. if the payment is not made before the end of the timer, the data will be published.
+
+ENCRYPTION:
+- at the first stage, you can select 1-3 files to ensure that we have them. at the second stage, you should check our decryption program. on the chat page, you will be able to get acquainted with our faq.
+- you are on the test decryption page (stage 2), you can upload the file and it will be decrypted automatically.
+- the price for decrypting and deleting your files from our servers is 60 btc. if a quick payment is made, i will discuss with my colleagues a discount for your company.

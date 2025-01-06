@@ -1,0 +1,478 @@
+
+OTHER:
+- select any without important info in it and we will upload it for you
+- of course not prng:)
+- please, introduce your company first
+- how is it going with decision making?
+- yes, your company has $2b revenue. we usually rate 1% of revenue
+- yes, our wallet  [redacted]
+- done
+- we will not wait forever. you have to decide.
+- for esxi servers it's not possible
+- hello
+- i'll share with you later when my teammate will be online.
+- yes, not so much, but it will be enough to confirm the incedent
+- the price is not a subject to discuss.
+- for all of course
+- don't worry you have time. tell me how is it going with upper management please
+- hi
+- done, you can check it.
+- okay.
+- the encryptor didn't uploaded yet, looking for it rn.
+- no, a truly cryptographic random field.
+- okay
+- it was necessary because whether i upload the encryptor other researchers will be able to login and read your conversation.
+- to convince you to pay we can make calls to your partners and customers to notify them about the incident.
+- hello! waiting for your decision, otherwise i will be forced to raise the price if ignored and put your information on my information auction.
+- we don't provide any hashes. every time the software is unique. there is  no need of hashes here. it will not help anyway.
+- actually i didn't spend too much time to hide it but i will
+- ok
+- i need to hear an update from you today
+- i'm sure this situation will be resolved
+- i offer you $2,500,000 and it's valid until the end of the weekend.
+- it's true. first 4kb, the last, and a few blocks in the middle
+- our target is a company that allowed a huge vulnerability in its system that led to a massive infection of [redacted-software-vendor]'s customer network. accordingly, this company must resolve this issue and justify the trust of its customers.
+- it's clearly the price is $3.5m
+- yes, we attack every targets, we have no limits here. it's not related with honesty
+- how may i help you?
+- i made an offer at the right panel
+- the encryptor software rewrites the key from memory.
+- in my opinion spending money to external it companies will only waste your valuable time.
+- the price isn't negotiable. i'll wait, there is no hurry
+- reconnect for what?
+- send us email from your corporate mail account to this address to verify it's you:
+
+[redacted]_support@protonmail.com
+- the price isn't negotiable.
+- we have 32 gb total. 
+almost all antiviruses are useless against real hackers.
+- wait a little bit. we'll get to step 1 soon.
+- okay, i agree
+- i'll wait
+- hello and welcome to hive.
+how may i help you?
+- yes, we will do that in few hours.
+- i'll fix the number at the company's profile but it will not change anything.
+- what a recovery company are you from?
+- thank you
+- we are all honest who works at hive
+- hello. please, introduce your company first.
+- i have extended it
+- the price is $500,000.
+- no
+- if you want a discount i would like to see for how much
+- we will answer you a little bit later.
+- i have another option for you. you will give me your email address (protonmail is preferred) and i'll send you new credentials to login. then i'll upload the encryptor to virustotal and provide you a link to it. all necessary hashes will be available there. 
+but to prevent others to login to your customer website you have to get new credentials first.
+- obviously you don't know that our goal is not you, our goal is [redacted-software-vendor] which has the profits to cover all recovery costs. once again, we want to hold [redacted-software-vendor] accountable in this panel to solve all your problems.
+- to convince you to pay we can make calls to your partners to notify them about the incident.
+- the offer has been created. there you can find a bitcoin address and approximate amount in it to pay
+- hello?
+- i can offer you $3,000,000 in bitcoin.
+- unfortunately i can't accept this.
+- i got it
+- it's time to pay
+- actually i already disclose you a lot of details which was never disclosed to anyone. i think it's enough to make a decision.
+- the final price for you is $100,000.
+- i didn't compare it with lockbit but my software is quite fast, especially esxi
+- https://www.virustotal.com/gui/file/12baa6c83e6f8b059e7f14cb67bdad4e917b90bc8a139b5379a4b42a0c92a6be?nocache=1
+- yes
+- let's play with the price. i think both your management and our side want to resolve this as quick as possible
+- array of bytes in memory where the key resides in rewrites to prevent such operation
+- okay, i'll give you time
+- what do you mean about creds? from what?
+- hi, how is it going?
+- okay, few min
+- i'm good too. i just wanted to know to what direction your company inclined right now. 
+
+by the way, what about a recovery process from memory from recovery company you told earlier?
+- here is safe now
+- okay, i'll do my best
+- i don't know. maybe today
+- [redacted-software-vendor] is responsible for you at this time. you are advised to contact them for a speedy resolution of your problems.
+- we are well-known organization. we honor our agreements. there is no point in the blacklist right now. you need to concentrate on how to collect money.
+- you have to make a decision.
+
+ENCRYPTION:
+- recovery companies no matter what they say can't decrypt.
+- after payment you will get:
+
+1) the decryption software
+2) promise of non-disclosure
+3) access to exfiltrated files storage
+4) security report
+- we performed files analysis. the impact of disclosure and undecryptable files will cost you few times more then $3.5m.
+to prove that we have exfiltrated files i give you a sample archive.
+
+https://privatlab.com/s/v/nqqr2jo2b7syqebnp5y4
+- to decrypt your files you will need to pay $500,000.
+- decrypting your server and removing stolen confidential files from your servers costs you $200,000 in bitcoins.
+- to decrypt your files you have to pay $20,000,000 in bitcoin.
+- i have decrypted both files
+- when encryptor starts it creates a random field which will be used in encryption process. it is static. after encryption process finishes it rewrites to prevent restoration process. rsa keys private and public only use to encrypt/decrypt the random field. only knowing the field it's possible to decrypt files. encryptor has only public rsa keys, decryptor - private rsa keys.
+- all you need is to see that i have decrypted it. there is nothing to validate more
+- after payment, you will receive:
+
+1) transcription software
+2) promise of non-disclosure
+3) access to storage of decrypted files
+4) security report 
+
+ to convince you to pay, we can make calls to your customers to notify them of the incident.
+- i have uploaded decrypted file
+- we are well-known organization and our decryptor works. otherwise you would able to read about any issues with other companies which are hundreds.
+- nothing. you will not be able to decrypt. your exfiltrated files will be disclosed. we will make calls to your partners and customers to notify them about the incident.
+- to decrypt your files and prevent them to be disclosed you will need to pay $1,200,000.
+- there is a spotted encryption mechanism. if you are talking about esxi files then i don't think they can. some text files - yes
+- to prove the decryption software works you may upload few encrypted files and a key related to them. it usually locates at c:\*.key.* or at root of a shared folder
+- unfortunately for them there are only two options: 
+1) start from a scratch
+2) purchase the decryption software from us
+- so you will be able to do the same right after you'll purchase the decryption software
+- to decrypt your files you have to pay $3,500,000 in bitcoin. the price is not a subject to discuss.
+- aes is a chiper, i use a different one - some kind of vernam's chiper. it's impossible to decrypt without knowing the keys.
+- only the main company are able to purchase the decryption software. it cost's $1,000,000 in bitcoin.
+- i will not to disclose you any sensitive files until payment will be made. select other files if you still do not believe that the decryption software works.
+- encryptor even don't know anything about private keys. it only has public keys. public keys need to encrypt random field which uses in encryption process.
+- yes, to decrypt your files you have to pay $300,000 in bitcoin.
+- to decrypt your files and to prevent them to be disclosed you will need to pay $500,000.
+- i already decrypt these two last files you uploaded, but i can't send you them to you due to sensitive info inside
+- let me explain to you something.
+there is no other way to decrypt files other then to purchase the decryption software. the attempts to use something different then original software may cause irreversible damage. your files will be unable to decrypt!
+- to decrypt your files you have to pay $3,500,000 in bitcoin.
+- in simplified version the key used to encrypt all files. it exports to the disk using a few rsa public keys applied. then encryption process follows. after that the key rewrites to prevent recovery from memory. 
+
+decryption software has rsa private keys to initially decrypt the exported key.
+
+DATA_HANDLING:
+- i don't know which hosts your data was downloaded from. we took only those files that were of interest and could be sold to third parties. typically, customer data, databases, financial reports, corporate email archives and other classified and confidential data related to the company's activities (technological developments, blueprints, drug clinical trials, software codes, etc.) are downloaded.
+- you are able to upload encrypted files and a key file locates at c:\*.key.*
+encrypted files must not contain important info in it.
+- name	type	data	timestamp
+_msdcs			
+_sites			
+_tcp			
+_udp			
+domaindnszones			
+forestdnszones			
+(same as parent folder)	host (a)	192.168.yyy.xxx	03/07/2019 19:00:00
+(same as parent folder)	host (a)	192.168.yyy.xxx	01/09/2019 16:00:00
+[redacted]	host (a)	192.168.yyy.xxx	20/06/2019 14:00:00
+[redacted]	host (a)	192.168.yyy.xxx	25/08/2019 12:00:00
+[redacted]	host (a)	192.168.yyy.xxx	25/06/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	25/06/2019 11:00:00
+[redacted]	host (a)	192.168.yyy.xxx	25/06/2019 12:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/08/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	13/08/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	28/08/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	28/08/2019 10:00:00
+backups	host (a)	192.168.yyy.xxx	static
+backups2	host (a)	192.168.yyy.xxx	29/08/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	12/08/2019 15:00:00
+[redacted]	host (a)	192.168.yyy.xxx	12/08/2019 15:00:00
+[redacted]	host (a)	192.168.yyy.xxx	08/08/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	08/08/2019 15:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/08/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	30/08/2019 11:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	30/08/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	18/06/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	31/08/2019 19:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	08/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 13:00:00
+[redacted]	host (a)	192.168.yyy.xxx	26/08/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	28/08/2019 13:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	29/08/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	08/08/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	27/08/2019 15:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	01/09/2019 15:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 15:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 0:00:00
+[redacted]	host (a)	192.168.yyy.xxx	01/09/2019 11:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	31/08/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	23/08/2019 15:00:00
+[redacted]	host (a)	192.168.yyy.xxx	static
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 7:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	28/08/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 0:00:00
+[redacted]	host (a)	192.168.yyy.xxx	03/09/2019 14:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	01/08/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 7:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	28/08/2019 7:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	28/08/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	22/08/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	28/08/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	29/08/2019 3:00:00
+[redacted]	host (a)	192.168.yyy.xxx	08/09/2019 3:00:00
+gestion	host (a)	192.168.yyy.xxx	28/08/2019 8:00:00
+[redacted]	host (a)	10.0.0.11	static
+[redacted]	host (a)	10.0.0.12	static
+[redacted]	host (a)	10.0.0.13	static
+[redacted]	host (a)	192.168.yyy.xxx	26/08/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	23/08/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 14:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	28/08/2019 15:00:00
+[redacted]	host (a)	192.168.yyy.xxx	26/08/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	03/09/2019 11:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 7:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+laptop-[redacted]	host (a)	192.168.yyy.xxx	04/09/2019 13:00:00
+laptop-[redacted]	host (a)	192.168.yyy.xxx	04/09/2019 13:00:00
+[redacted]	host (a)	192.168.yyy.xxx	03/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	04/09/2019 3:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	static
+[redacted]	host (a)	192.168.yyy.xxx	static
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 16:00:00
+[redacted]	host (a)	192.168.yyy.xxx	27/08/2019 19:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 17:00:00
+[redacted]	host (a)	192.168.yyy.xxx	26/08/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	30/08/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	26/08/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	07/09/2019 22:00:00
+[redacted]	host (a)	192.168.yyy.xxx	13/08/2019 7:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/08/2019 14:00:00
+[redacted]	host (a)	192.168.yyy.xxx	26/07/2019 13:00:00
+[redacted]	host (a)	192.168.yyy.xxx	24/07/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 17:00:00
+[redacted]	host (a)	192.168.yyy.xxx	01/08/2019 14:00:00
+[redacted]	host (a)	192.168.yyy.xxx	07/08/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	16/07/2019 13:00:00
+[redacted]	host (a)	192.168.yyy.xxx	16/07/2019 13:00:00
+[redacted]	host (a)	192.168.yyy.xxx	07/09/2019 15:00:00
+[redacted]	host (a)	192.168.yyy.xxx	24/07/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	03/07/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	17/07/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	22/08/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	29/08/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	26/08/2019 17:00:00
+[redacted]	host (a)	192.168.yyy.xxx	04/09/2019 14:00:00
+[redacted]	host (a)	192.168.yyy.xxx	31/08/2019 10:00:00
+[redacted]srv	host (a)	192.168.yyy.xxx	31/08/2019 11:00:00
+[redacted]	host (a)	192.168.yyy.xxx	26/08/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	01/09/2019 15:00:00
+[redacted]	host (a)	192.168.yyy.xxx	30/08/2019 16:00:00
+[redacted]	host (a)	192.168.yyy.xxx	27/08/2019 20:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	01/09/2019 0:00:00
+[redacted]	host (a)	192.168.yyy.xxx	29/08/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 7:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	31/08/2019 22:00:00
+[redacted]srv	host (a)	192.168.yyy.xxx	08/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/08/2019 14:00:00
+nas-2	host (a)	192.168.yyy.xxx	static
+[redacted]	host (a)	192.168.yyy.xxx	04/07/2019 11:00:00
+[redacted]	host (a)	192.168.yyy.xxx	28/08/2019 11:00:00
+[redacted]	host (a)	192.168.yyy.xxx	28/08/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	01/09/2019 0:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 11:00:00
+[redacted]	host (a)	192.168.yyy.xxx	28/08/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	03/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	26/08/2019 7:00:00
+[redacted]	host (a)	192.168.yyy.xxx	04/09/2019 11:00:00
+[redacted]	host (a)	192.168.yyy.xxx	27/08/2019 13:00:00
+[redacted]	host (a)	192.168.yyy.xxx	27/08/2019 13:00:00
+[redacted]	host (a)	192.168.yyy.xxx	04/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	03/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	27/08/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 12:00:00
+[redacted]	host (a)	192.168.yyy.xxx	27/08/2019 3:00:00
+[redacted]	host (a)	192.168.yyy.xxx	30/08/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 12:00:00
+[redacted]	host (a)	192.168.yyy.xxx	31/08/2019 2:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 13:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 13:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 11:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 11:00:00
+presta[redacted]	host (a)	192.168.yyy.xxx	04/09/2019 19:00:00
+[redacted]	host (a)	192.168.yyy.xxx	28/08/2019 7:00:00
+[redacted]-hp	host (a)	192.168.yyy.xxx	02/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	03/09/2019 12:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 15:00:00
+[redacted]	host (a)	192.168.yyy.xxx	30/08/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	08/09/2019 5:00:00
+[redacted]	host (a)	192.168.yyy.xxx	04/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	01/09/2019 12:00:00
+server[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 8:00:00
+server[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 10:00:00
+server[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 13:00:00
+server[redacted]	host (a)	192.168.yyy.xxx	31/08/2019 8:00:00
+server[redacted]	host (a)	192.168.yyy.xxx	28/08/2019 11:00:00
+serverdom	host (a)	192.168.yyy.xxx	static
+server[redacted]	host (a)	192.168.yyy.xxx	25/08/2019 8:00:00
+server[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 8:00:00
+servereditorial	host (a)	192.168.yyy.xxx	05/09/2019 13:00:00
+server[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 8:00:00
+server[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 8:00:00
+servergit	host (a)	192.168.yyy.xxx	static
+serverhcm	host (a)	192.168.yyy.xxx	02/09/2019 8:00:00
+server[redacted]	host (a)	192.168.yyy.xxx	11/08/2019 8:00:00
+serverjava	host (a)	192.168.yyy.xxx	static
+servermd	host (a)	192.168.yyy.xxx	08/09/2019 8:00:00
+servermonprint	host (a)	192.168.yyy.xxx	03/09/2019 8:00:00
+serverpc	host (a)	192.168.yyy.xxx	static
+serverphp	host (a)	192.168.yyy.xxx	static
+serverrails	host (a)	192.168.yyy.xxx	static
+serverrdp	host (a)	192.168.yyy.xxx	25/08/2019 8:00:00
+server[redacted]	host (a)	192.168.yyy.xxx	25/08/2019 9:00:00
+serversap	host (a)	192.168.yyy.xxx	03/09/2019 8:00:00
+server[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 11:00:00
+server[redacted]	host (a)	192.168.yyy.xxx	30/06/2019 6:00:00
+server[redacted]	host (a)	192.168.yyy.xxx	01/09/2019 8:00:00
+serv[redacted]	host (a)	192.168.yyy.xxx	28/08/2019 10:00:00
+servervpn	host (a)	192.168.yyy.xxx	25/08/2019 15:00:00
+serverweb	host (a)	192.168.yyy.xxx	static
+serverwebw1apps	host (a)	192.168.yyy.xxx	static
+serverwsus	host (a)	192.168.yyy.xxx	26/08/2019 8:00:00
+srv[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 8:00:00
+srv[redacted]	host (a)	192.168.yyy.xxx	07/09/2019 15:00:00
+srv[redacted]	host (a)	192.168.yyy.xxx	26/08/2019 9:00:00
+srv[redacted]	host (a)	192.168.yyy.xxx	25/08/2019 15:00:00
+srv[redacted]	host (a)	192.168.yyy.xxx	26/08/2019 8:00:00
+srv[redacted]	host (a)	192.168.yyy.xxx	07/09/2019 11:00:00
+srv[redacted]	host (a)	192.168.yyy.xxx	static
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 11:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 11:00:00
+[redacted]	host (a)	192.168.yyy.xxx	03/09/2019 8:00:00
+[redacted]	host (a)	192.168.yyy.xxx	29/08/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	04/09/2019 3:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	08/09/2019 22:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 7:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 7:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 13:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 13:00:00
+[redacted]	host (a)	192.168.yyy.xxx	04/09/2019 14:00:00
+[redacted]	host (a)	192.168.yyy.xxx	04/09/2019 14:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 13:00:00
+[redacted]	host (a)	192.168.yyy.xxx	05/09/2019 15:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 13:00:00
+[redacted]	host (a)	192.168.yyy.xxx	02/09/2019 16:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 12:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	06/09/2019 13:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 9:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 10:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 7:00:00
+[redacted]	host (a)	192.168.yyy.xxx	09/09/2019 7:00:00
+[redacted]admin01	host (a)	192.168.yyy.xxx	21/06/2019 9:00:00
+win-[redacted]	ipv6 host (aaaa)	2002:1400:0122:0000:0000:0000:1400:0122	static
+(same as parent folder)	name server (ns)	serverdom02.[redacted].local.	static
+(same as parent folder)	name server (ns)	serverdom.[redacted].local.	static
+(same as parent folder)	start of authority (soa)	[222783], serverdom.[redacted].local., hostmaster.[redacted].net.	static
+- i have uploaded one file and others, i see they contain important info. i can mask some data in it^
+
+passphrase : xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+vault      : serverdom
+machine    : serverdom
+- we also have exfiltrated files which will be disclosed in case of refusing to pay.
+- if you will not to start communicating with us your company's profile will be disclosed, and then the rest of exfiltrated data
+- lacveeam1.lac.[redacted].com
+mdvtsql1
+lacsql2012.lac.[redacted].com
+sqlcluster02
+lacwsus.lac.[redacted].com
+cifsftpdata what files from these hosts are you interested in? maybe you are interested in other hosts, tell me the name of the host
+- 3) access to exfiltrated files storage
+ mega.nz  login megashara@onionmail.org
+password  [redacted]
+- upload few encrypted files with a key. you don't have to upload full folder.
+- it's very simple. esxi files especially virtual drives are very fragile. even few changes make them unreadable because it has a binary structure.
+esxi was encrypted using spot method. 4 kb of beginning of the files, 4 kb of ending of the file and along file. totally 100 kb over the each file is encrypted. it's a quite enough.
+- it's a potential data leakage so i have prevented it
+- hello, the timer is almost gone.
+we will publish your data soon.
+- i have uploaded the list of exfiltrated files.
+- upload any other files and a corresponding key(s) without any important info in them.
+- yes, the files will be revealed here on the site. we will also study them in more detail and post them on other forums. you should understand that this information can get to intruders.
+- we don't care about your company files, we don't care about that, we're only interested in profit. this is business. are you ready to make a deal?
+- i have uploaded a list of exfiltrated files we have from your network.
+- i uploaded a list of files not the files themselves
+- it's at the left panel titled uploaded files
+- you will get an access to your exfiltrated files storage
+- yes, and then upload encrypted files which contain 4igkanbkvldlbbkahplioso-[redacted]*.[redacted]
+- we selected several random files from the downloaded repository and attached to the panel. you can watch it.
+- if you are willing to cooperate, i will give you some files to confirm, but it does not matter, as it is silly to think that we have not downloaded anything when big money is being decided. you can read public news and our publications to be sure of our words http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion/
+- 4) security report 
+https://dropmefiles.net/en/[redacted]
+- we have 1.8 tb of exfiltrated files.
+stop talking shit otherwise i'll disclose them
+- we have uploaded a list of all your files that we have. you can see them in the panel.
+- i have uploaded shorten files
+
+PAYMENT:
+- these both files contain sensitive info. i will not disclose them to you before payment. choose another files or i can upload them to you truncated
+- you may purchase bitcoin here -  https://www.kraken.com/
+
+just create a new business account and make sepa-payment.
+after registration and sepa-payment you should immediately contact to kraken support and raise the withdrawal limit to $2.5m per 1 btc transaction.
+- what is eta on the payment?
+- i fully understand you. i understand what a difficult situation you are in. and for this reason, i will help you, i agree to $ 170,000. i will ask you to also help me and make the payment quickly.
+- the price of $ 200,000 was announced at the very beginning of the negotiations. after that, you continued negotiations, specifying all the necessary information for you. thereby you agreed to the announced amount. you didn't just waste your time on this, did you? your company look can afford this amount and you know it. we did not overstate the cost, the price is optimal for you. i ask you to make a decision and make a payment as soon as possible. then we will fulfill all the stated conditions immediately.
+- at the time of transfer, the amount have to be equal $275,800 in btc.
