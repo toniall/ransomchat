@@ -33,7 +33,7 @@ This repository contains a Python script for simulating chat negotiations with r
    git clone https://github.com/toniall/ransomchat.git
    cd ransomchat
   ```
-
+  
 2. **Set up and activate a virtual environment**:
   ```bash
   python3 -m venv venv
@@ -48,6 +48,10 @@ This repository contains a Python script for simulating chat negotiations with r
 4. **Run the Python script**:
   ```bash
   python3 RamsonChat.py
+  ```
+5. **Run the Python GUI for the Chat**:
+  ```bash
+  python3 RamsonChatPyQt.py
   ```
 
 ## Note
