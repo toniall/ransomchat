@@ -1,11 +1,7 @@
-# Author: Antonio Brandao
-# Ransomware group chat files: https://github.com/Casualtek/Ransomchats/tree/main
-# Thanks to Valéry Marchive - hthttps://twitter.com/ValeryMarchive
-
-import os  # For file and directory operations
-import json  # For JSON handling, though not directly used here
-from colorama import init, Fore, Style  # For colored console output
-import re  # For regular expressions, though not directly used here
+import os
+import json
+import platform
+from colorama import init, Fore, Style
 
 # Initialize colorama for Windows support
 init()
@@ -15,7 +11,8 @@ api_choice = input(f"{Fore.YELLOW}Choose API (1 for OpenAI, 2 for xAI Grok): {St
 if api_choice == "1":
     from openai import OpenAI as Client
     api_key_env = "OPENAI_API_KEY"
-    default_model = "gpt-4o"  # Using the latest model available
+    default_model = "gpt-4o"
+    client_kwargs = {}
 elif api_choice == "2":
     from openai import OpenAI as Client
     api_key_env = "XAI_API_KEY"
@@ -24,92 +21,87 @@ elif api_choice == "2":
 else:
     raise ValueError("Invalid API choice")
 
-def load_behavior(group_name):
+def load_behaviour(group_name):
     """
-    Load behavior patterns from a text file for a specific ransomware group.
-    
-    :param group_name: Name of the ransomware group
-    :return: Dictionary with behavior categories and messages
+    Load behaviour patterns from a text file for a specific ransomware group.
     """
-    behavior_file = f"{group_name}_behavior.txt"
-    if not os.path.exists(behavior_file):
-        raise FileNotFoundError(f"Behavior file for {group_name} not found.")
-    
-    behavior = {}
+    behaviour_path = os.path.join(os.getcwd(), 'behaviour')
+    behaviour_file = os.path.join(behaviour_path, f"{group_name}_behaviour.txt")
+
+    if not os.path.exists(behaviour_file):
+        raise FileNotFoundError(f"Behaviour file for {group_name} not found in {behaviour_path}.")
+
+    behaviour = {}
     current_category = None
-    with open(behavior_file, 'r', encoding='utf-8') as file:
+
+    with open(behaviour_file, 'r', encoding='utf-8') as file:
         for line in file:
             line = line.strip()
             if line.endswith(':'):
                 current_category = line[:-1].lower()
-                behavior[current_category] = []
+                behaviour[current_category] = []
             elif line and current_category:
-                behavior[current_category].append(line[2:])
-    
-    return behavior
+                behaviour[current_category].append(line[2:])
+
+    return behaviour
 
 def format_bytes(size):
-    """
-    Convert bytes to a human-readable format.
-    
-    :param size: Size in bytes
-    :return: Formatted size string
-    """
     for unit in ['', 'K', 'M', 'G', 'T', 'P']:
         if size < 1024:
             return f"{size:.2f}{unit}B"
         size /= 1024
 
-def show_behavior_options():
+def show_behaviour_options():
     """
-    Display available ransomware groups sorted by behavior file size.
-    
-    :return: Chosen group name
+    Display available ransomware groups sorted by behaviour file size.
     """
-    base_path = 'Ransomchats-main'
-    groups = [d for d in os.listdir(base_path) if os.path.isdir(os.path.join(base_path, d))]
-    
-    # Gather file sizes
-    group_sizes = []
-    for group in groups:
-        file_path = f"{group}_behavior.txt"
-        if os.path.exists(file_path):
-            size = os.path.getsize(file_path)  # Size in bytes
-            group_sizes.append((group, size))
-        else:
-            group_sizes.append((group, 0))  # File not found, size 0
+    base_path = os.path.join(os.getcwd(), 'behaviour')
+    groups = []
 
-    # Sort by file size in descending order
-    sorted_groups = sorted(group_sizes, key=lambda x: x[1], reverse=True)
-    
-    print(f"{Fore.YELLOW}Available Ransomware Groups (ordered by behavior file size, largest to smallest):{Style.RESET_ALL}")
+    # Search for files ending with '_behaviour.txt'
+    for filename in os.listdir(base_path):
+        if filename.endswith('_behaviour.txt'):
+            group_name = filename.replace('_behaviour.txt', '')
+            file_path = os.path.join(base_path, filename)
+            size = os.path.getsize(file_path)
+            groups.append((group_name, size))
+
+    if not groups:
+        raise FileNotFoundError("No behaviour files found in the 'behaviour' directory.")
+
+    sorted_groups = sorted(groups, key=lambda x: x[1], reverse=True)
+
+    print(f"{Fore.YELLOW}Available Ransomware Groups:{Style.RESET_ALL}")
     for index, (group, size) in enumerate(sorted_groups, 1):
-        if size > 0:
-            formatted_size = format_bytes(size)
-            print(f"{index}. {group} - {formatted_size}")
-        else:
-            print(f"{index}. {group} - File not found")
-    
+        formatted_size = format_bytes(size)
+        print(f"{index}. {group} - {formatted_size}")
+
     choice = int(input(f"{Fore.GREEN}Choose a group number: {Style.RESET_ALL}")) - 1
     if choice < 0 or choice >= len(sorted_groups):
         raise ValueError("Invalid group selection")
+
     return sorted_groups[choice][0]
+
+def clear_screen():
+# Determine the operating system and clear the screen accordingly
+    if platform.system() == "Windows":
+        os.system('cls')
+    else:
+        os.system('clear')
 
 def simulate_chat(group_name, api_key):
     """
     Simulate a chat negotiation with a ransomware group using AI.
-    
-    :param group_name: Name of the ransomware group
-    :param api_key: API key for the chosen AI service
     """
     os.environ[api_key_env] = api_key
-    client = Client(api_key=api_key, **client_kwargs if api_choice == "2" else {})
+    client = Client(api_key=api_key, **client_kwargs)
 
-    behavior = load_behavior(group_name)
-    
+    behaviour = load_behaviour(group_name)
+
     system_prompt = f"You are a representative of the {group_name} ransomware group. Here's how you should respond:\n"
-    for category, messages in behavior.items():
+    for category, messages in behaviour.items():
         system_prompt += f"- {category.capitalize()}: {'; '.join(messages)}.\n"
+
     system_prompt += """
     - Keep responses concise; only mention payment details if asked or if payment is not confirmed.
     - Focus on negotiating the payment amount rather than repeating payment methods.
@@ -118,9 +110,7 @@ def simulate_chat(group_name, api_key):
     - Be professional yet threatening, insisting on payment for decryption and secure data deletion.
     """
 
-    messages = [
-        {"role": "system", "content": system_prompt},
-    ]
+    messages = [{"role": "system", "content": system_prompt}]
 
     print(f"{Fore.CYAN}Welcome to the {group_name} negotiation chatroom.{Style.RESET_ALL}")
     print(f"Type 'exit' to leave the chat.")
@@ -130,29 +120,27 @@ def simulate_chat(group_name, api_key):
         if user_input.lower() == 'exit':
             print(f"{Fore.RED}{group_name}: Goodbye.{Style.RESET_ALL}")
             break
-        
+
         messages.append({"role": "user", "content": user_input})
-        
-        context = ""
-        if any("payment" in message["content"] for message in messages if message["role"] == "assistant"):
-            context = "Focus on negotiating the payment amount rather than repeating payment methods. "
-        
+
         completion = client.chat.completions.create(
             model=default_model,
             messages=messages,
             max_tokens=150,
         )
+
         response = completion.choices[0].message.content
-        
-        colored_response = f"{Fore.RED}{response}{Style.RESET_ALL}"
+
         print(f"{Fore.GREEN}You:{Style.RESET_ALL} {Fore.GREEN}{user_input}{Style.RESET_ALL}")
-        print(f"{group_name}: {colored_response}")
+        print(f"{group_name}: {Fore.RED}{response}{Style.RESET_ALL}")
         messages.append({"role": "assistant", "content": response})
 
 if __name__ == "__main__":
     try:
-        group_name = show_behavior_options()
+        group_name = show_behaviour_options()
         api_key = input(f"{Fore.GREEN}Enter your API key (hidden input): {Style.RESET_ALL}")
+        # Clear the screen after API key input
+        clear_screen()
         simulate_chat(group_name, api_key)
     except (ValueError, FileNotFoundError, IndexError) as e:
         print(f"{Fore.RED}Error: {e}{Style.RESET_ALL}")
