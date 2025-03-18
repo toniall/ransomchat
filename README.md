@@ -47,16 +47,13 @@ This repository contains a Python script for simulating chat negotiations with r
 
 ## Run the Python script
   ```bash
-  python3 RamsonChat.py
+  python3 RansomChat.py
   ```
 
 ![image](https://github.com/user-attachments/assets/6fa23a4f-14fd-4333-b18f-dcc6e053bc62)
 ![image](https://github.com/user-attachments/assets/e1e147ad-b6eb-4763-a5bb-6fc51002ec07)
 
-## Run the Python GUI for the Chat
-  ```bash
-  python3 RamsonChatPyQt.py
-  ```
+
 1. **Choose your API and enter the API Key**:
 
 ![image](https://github.com/user-attachments/assets/88e5d7b2-183a-49be-a60a-1b79b5ef7b50)
@@ -71,6 +68,27 @@ This repository contains a Python script for simulating chat negotiations with r
 ![image](https://github.com/user-attachments/assets/40fdfba6-602e-4aa9-9d5c-cede10c042b7)
 
 4. **Start the Chat**:
+
+![image](https://github.com/user-attachments/assets/992630f2-109a-499c-acd2-e2d0d98d1837)
+
+## Run the Python script
+  ```bash
+  python3 RansomChatPyQt.py
+  ```
+1. ** Choose your API and enter the API Key:**
+
+![image](https://github.com/user-attachments/assets/88e5d7b2-183a-49be-a60a-1b79b5ef7b50)
+![image](https://github.com/user-attachments/assets/f249b896-f308-477c-91e7-c74ba1da126f)
+
+2. ** Select the behaviour Folder:
+
+![image](https://github.com/user-attachments/assets/88d4d5d8-390d-4f64-9941-d60aef633b90)
+
+3. ** Select the Ransomware Group for the Negotiations:"
+
+![image](https://github.com/user-attachments/assets/40fdfba6-602e-4aa9-9d5c-cede10c042b7)
+
+4. ** Start the Chat:**
 
 ![image](https://github.com/user-attachments/assets/992630f2-109a-499c-acd2-e2d0d98d1837)
 
