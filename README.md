@@ -71,7 +71,7 @@ This repository contains a Python script for simulating chat negotiations with r
 
 ![image](https://github.com/user-attachments/assets/992630f2-109a-499c-acd2-e2d0d98d1837)
 
-## Run the Python script
+## Run the GUI Python script
   ```bash
   python3 RansomChatPyQt.py
   ```
